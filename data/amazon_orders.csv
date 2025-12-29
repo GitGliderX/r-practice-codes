@@ -1,0 +1,1001 @@
+OrderID,OrderDate,DeliveryDate,CustomerName,ProductCategory,ProductName,Quantity,UnitPrice,PaymentMethod,OrderStatus,City,State,Region,TotalAmount
+10001,2024-04-12,2024-01-07,Karan Malhotra,Home Appliances,Mobile,3,2335,Cash on Delivery,Returned,Hyderabad,Maharashtra,South,7005
+10002,2024-06-28,2024-01-07,Rahul Mehta,Books,Laptop,3,41045,UPI,Returned,Bengaluru,Tamil Nadu,North,123135
+10003,2024-04-02,2024-01-05,Rahul Mehta,Clothing,Headphones,5,17541,Net Banking,Returned,Hyderabad,Karnataka,South,87705
+10004,2024-01-15,2024-01-12,Pooja Singh,Clothing,Face Cream,1,53275,Credit Card,Delivered,Chennai,Telangana,South,53275
+10005,2024-04-16,2024-01-12,Sneha Kulkarni,Home Appliances,Face Cream,5,23454,Cash on Delivery,Cancelled,Mumbai,Maharashtra,North,117270
+10006,2024-03-12,2024-01-10,Neha Patil,Electronics,Novel,4,25925,Debit Card,Delivered,Mumbai,Tamil Nadu,North,103700
+10007,2024-01-21,2024-01-08,Priya Nair,Beauty,Novel,5,45250,Credit Card,Cancelled,Bengaluru,Maharashtra,South,226250
+10008,2024-04-12,2024-01-12,Rahul Mehta,Books,Laptop,2,56696,Net Banking,Delivered,Mumbai,Karnataka,South,113392
+10009,2024-05-01,2024-01-09,Neha Patil,Clothing,Laptop,5,13631,UPI,In Transit,Chennai,Delhi,South,68155
+10010,2024-03-15,2024-01-12,Amit Sharma,Electronics,Novel,3,64227,Credit Card,In Transit,Chennai,Tamil Nadu,West,192681
+10011,2024-03-28,2024-01-07,Suresh Iyer,Home Appliances,Shirt,4,63314,Credit Card,Returned,Chennai,Maharashtra,West,253256
+10012,2024-04-26,2024-01-05,Sneha Kulkarni,Clothing,Shirt,2,39646,Cash on Delivery,In Transit,Pune,Maharashtra,East,79292
+10013,2024-04-09,2024-01-09,Rohit Verma,Home Appliances,Headphones,5,70711,Debit Card,Returned,Chennai,Maharashtra,West,353555
+10014,2024-04-13,2024-01-10,Neha Patil,Books,Mixer,4,54778,Debit Card,Cancelled,Chennai,Delhi,West,219112
+10015,2024-05-31,2024-01-08,Amit Sharma,Beauty,Headphones,4,12554,UPI,In Transit,Pune,Maharashtra,North,50216
+10016,2024-05-10,2024-01-10,Priya Nair,Clothing,Mixer,2,56034,Net Banking,Cancelled,Hyderabad,Telangana,East,112068
+10017,2024-05-29,2024-01-07,Karan Malhotra,Clothing,Laptop,5,28921,UPI,Delivered,Delhi,Telangana,East,144605
+10018,2024-02-22,2024-01-09,Rohit Verma,Books,Mobile,4,76741,Credit Card,Cancelled,Mumbai,Maharashtra,West,306964
+10019,2024-01-02,2024-01-09,Karan Malhotra,Electronics,Headphones,4,46421,Credit Card,Delivered,Chennai,Telangana,North,185684
+10020,2024-03-28,2024-01-09,Priya Nair,Beauty,Headphones,1,60497,Debit Card,Cancelled,Mumbai,Tamil Nadu,North,60497
+10021,2024-06-06,2024-01-07,Amit Sharma,Clothing,Mixer,4,42731,Net Banking,Cancelled,Bengaluru,Telangana,East,170924
+10022,2024-02-07,2024-01-07,Rahul Mehta,Beauty,Laptop,1,5137,Cash on Delivery,In Transit,Mumbai,Maharashtra,North,5137
+10023,2024-05-09,2024-01-10,Karan Malhotra,Clothing,Laptop,5,71532,Net Banking,Cancelled,Hyderabad,Karnataka,South,357660
+10024,2024-01-21,2024-01-06,Rohit Verma,Beauty,Face Cream,5,49294,Credit Card,In Transit,Pune,Tamil Nadu,West,246470
+10025,2024-06-09,2024-01-10,Pooja Singh,Home Appliances,Mixer,5,79379,Cash on Delivery,In Transit,Mumbai,Delhi,South,396895
+10026,2024-02-27,2024-01-08,Anjali Deshmukh,Clothing,Laptop,3,12915,Net Banking,Returned,Mumbai,Maharashtra,East,38745
+10027,2024-01-22,2024-01-05,Neha Patil,Beauty,Novel,5,1766,Net Banking,Returned,Mumbai,Delhi,East,8830
+10028,2024-03-29,2024-01-09,Rahul Mehta,Electronics,Shirt,4,31071,Cash on Delivery,Delivered,Delhi,Karnataka,North,124284
+10029,2024-02-18,2024-01-06,Karan Malhotra,Home Appliances,Face Cream,2,66211,Credit Card,Cancelled,Delhi,Delhi,North,132422
+10030,2024-02-28,2024-01-05,Suresh Iyer,Home Appliances,Novel,1,21046,Net Banking,Delivered,Bengaluru,Maharashtra,East,21046
+10031,2024-06-18,2024-01-06,Neha Patil,Electronics,Mobile,3,61039,Cash on Delivery,Cancelled,Pune,Maharashtra,East,183117
+10032,2024-01-15,2024-01-12,Pooja Singh,Beauty,Headphones,5,73669,Credit Card,Returned,Mumbai,Karnataka,South,368345
+10033,2024-06-23,2024-01-12,Priya Nair,Books,Face Cream,5,2193,Cash on Delivery,Returned,Mumbai,Maharashtra,South,10965
+10034,2024-02-20,2024-01-11,Anjali Deshmukh,Electronics,Mobile,2,30873,Cash on Delivery,Cancelled,Mumbai,Karnataka,North,61746
+10035,2024-04-17,2024-01-12,Amit Sharma,Beauty,Headphones,2,41174,Net Banking,Cancelled,Mumbai,Karnataka,South,82348
+10036,2024-02-24,2024-01-10,Pooja Singh,Electronics,Shirt,3,77662,Credit Card,Returned,Delhi,Maharashtra,North,232986
+10037,2024-03-04,2024-01-12,Pooja Singh,Electronics,Laptop,1,33667,Net Banking,Returned,Hyderabad,Telangana,North,33667
+10038,2024-05-10,2024-01-07,Priya Nair,Clothing,Novel,5,21499,UPI,Delivered,Hyderabad,Karnataka,West,107495
+10039,2024-02-20,2024-01-09,Sneha Kulkarni,Beauty,Mixer,3,74628,UPI,Returned,Bengaluru,Maharashtra,North,223884
+10040,2024-05-14,2024-01-10,Priya Nair,Books,Novel,4,58024,Credit Card,Cancelled,Chennai,Telangana,South,232096
+10041,2024-01-21,2024-01-05,Sneha Kulkarni,Clothing,Shirt,4,36705,Cash on Delivery,Delivered,Pune,Karnataka,East,146820
+10042,2024-03-13,2024-01-11,Sneha Kulkarni,Electronics,Mobile,3,16289,Net Banking,Cancelled,Hyderabad,Telangana,East,48867
+10043,2024-06-15,2024-01-11,Rahul Mehta,Electronics,Mixer,5,29231,Net Banking,In Transit,Mumbai,Tamil Nadu,South,146155
+10044,2024-01-18,2024-01-11,Rahul Mehta,Electronics,Laptop,3,9590,Credit Card,Delivered,Hyderabad,Tamil Nadu,East,28770
+10045,2024-05-11,2024-01-05,Rohit Verma,Beauty,Shirt,5,38667,Credit Card,Cancelled,Bengaluru,Telangana,North,193335
+10046,2024-03-29,2024-01-05,Karan Malhotra,Beauty,Mixer,2,79781,UPI,Returned,Chennai,Karnataka,East,159562
+10047,2024-02-29,2024-01-05,Karan Malhotra,Clothing,Shirt,3,76598,Debit Card,In Transit,Hyderabad,Maharashtra,South,229794
+10048,2024-01-14,2024-01-05,Amit Sharma,Books,Shirt,5,30433,Credit Card,Cancelled,Bengaluru,Delhi,East,152165
+10049,2024-01-09,2024-01-11,Karan Malhotra,Clothing,Laptop,3,27352,Debit Card,Delivered,Delhi,Maharashtra,North,82056
+10050,2024-03-30,2024-01-11,Rahul Mehta,Home Appliances,Face Cream,3,40775,Credit Card,Cancelled,Chennai,Delhi,North,122325
+10051,2024-02-22,2024-01-06,Rohit Verma,Electronics,Headphones,5,57956,Cash on Delivery,In Transit,Bengaluru,Delhi,South,289780
+10052,2024-05-09,2024-01-10,Rohit Verma,Electronics,Mixer,5,4933,Cash on Delivery,Delivered,Hyderabad,Karnataka,South,24665
+10053,2024-03-24,2024-01-09,Sneha Kulkarni,Electronics,Laptop,1,17604,UPI,In Transit,Delhi,Telangana,South,17604
+10054,2024-04-01,2024-01-12,Priya Nair,Clothing,Shirt,3,46846,UPI,Cancelled,Bengaluru,Maharashtra,West,140538
+10055,2024-04-20,2024-01-12,Amit Sharma,Clothing,Laptop,4,7308,Debit Card,Returned,Bengaluru,Telangana,West,29232
+10056,2024-06-20,2024-01-07,Sneha Kulkarni,Electronics,Face Cream,3,48591,Credit Card,Returned,Hyderabad,Tamil Nadu,North,145773
+10057,2024-01-08,2024-01-11,Priya Nair,Clothing,Headphones,3,27705,Net Banking,Cancelled,Chennai,Karnataka,West,83115
+10058,2024-06-23,2024-01-07,Karan Malhotra,Beauty,Novel,5,36686,UPI,Cancelled,Delhi,Karnataka,West,183430
+10059,2024-02-04,2024-01-10,Sneha Kulkarni,Beauty,Mixer,3,21127,Net Banking,Cancelled,Mumbai,Tamil Nadu,East,63381
+10060,2024-03-21,2024-01-10,Neha Patil,Clothing,Headphones,3,33340,Net Banking,Delivered,Pune,Maharashtra,West,100020
+10061,2024-06-12,2024-01-07,Karan Malhotra,Electronics,Mobile,4,60654,Credit Card,In Transit,Chennai,Tamil Nadu,East,242616
+10062,2024-02-19,2024-01-11,Priya Nair,Clothing,Mixer,5,78843,Debit Card,In Transit,Delhi,Maharashtra,South,394215
+10063,2024-04-13,2024-01-07,Amit Sharma,Clothing,Headphones,3,18457,Credit Card,In Transit,Bengaluru,Delhi,East,55371
+10064,2024-05-11,2024-01-12,Priya Nair,Clothing,Shirt,2,35615,UPI,Cancelled,Delhi,Karnataka,East,71230
+10065,2024-01-02,2024-01-06,Sneha Kulkarni,Home Appliances,Mixer,1,36232,Net Banking,In Transit,Pune,Maharashtra,South,36232
+10066,2024-05-13,2024-01-12,Sneha Kulkarni,Beauty,Mixer,4,21464,Credit Card,Cancelled,Hyderabad,Telangana,South,85856
+10067,2024-02-23,2024-01-08,Pooja Singh,Books,Laptop,3,14714,Credit Card,Delivered,Pune,Telangana,North,44142
+10068,2024-04-15,2024-01-11,Amit Sharma,Books,Shirt,2,14627,Credit Card,Returned,Mumbai,Karnataka,North,29254
+10069,2024-01-04,2024-01-11,Suresh Iyer,Home Appliances,Mobile,3,1246,UPI,Cancelled,Mumbai,Tamil Nadu,North,3738
+10070,2024-02-23,2024-01-09,Karan Malhotra,Clothing,Novel,3,14993,Debit Card,Cancelled,Pune,Tamil Nadu,North,44979
+10071,2024-05-25,2024-01-05,Rohit Verma,Home Appliances,Face Cream,5,27541,Credit Card,Returned,Chennai,Maharashtra,East,137705
+10072,2024-02-13,2024-01-08,Amit Sharma,Home Appliances,Headphones,5,15840,UPI,Returned,Chennai,Tamil Nadu,East,79200
+10073,2024-06-10,2024-01-10,Rohit Verma,Electronics,Laptop,5,72555,Net Banking,Delivered,Bengaluru,Karnataka,North,362775
+10074,2024-01-14,2024-01-11,Amit Sharma,Beauty,Headphones,2,65057,Cash on Delivery,In Transit,Mumbai,Maharashtra,West,130114
+10075,2024-04-04,2024-01-07,Amit Sharma,Books,Mobile,3,41503,UPI,Cancelled,Bengaluru,Delhi,North,124509
+10076,2024-02-17,2024-01-08,Priya Nair,Clothing,Mobile,1,25381,Cash on Delivery,In Transit,Mumbai,Tamil Nadu,West,25381
+10077,2024-01-15,2024-01-09,Amit Sharma,Books,Mixer,4,62161,Credit Card,Cancelled,Pune,Tamil Nadu,South,248644
+10078,2024-02-09,2024-01-10,Pooja Singh,Books,Face Cream,5,11650,Credit Card,Delivered,Chennai,Maharashtra,East,58250
+10079,2024-03-22,2024-01-05,Suresh Iyer,Beauty,Mobile,5,55812,UPI,Returned,Chennai,Telangana,East,279060
+10080,2024-04-20,2024-01-05,Sneha Kulkarni,Books,Headphones,3,57109,Cash on Delivery,Delivered,Pune,Tamil Nadu,West,171327
+10081,2024-02-22,2024-01-09,Anjali Deshmukh,Books,Shirt,3,43132,Credit Card,Returned,Bengaluru,Karnataka,North,129396
+10082,2024-01-24,2024-01-09,Rohit Verma,Home Appliances,Shirt,2,28669,Net Banking,In Transit,Bengaluru,Tamil Nadu,East,57338
+10083,2024-06-02,2024-01-07,Sneha Kulkarni,Beauty,Mixer,2,32028,Debit Card,In Transit,Delhi,Delhi,West,64056
+10084,2024-05-03,2024-01-11,Anjali Deshmukh,Electronics,Novel,5,17876,Debit Card,Delivered,Mumbai,Tamil Nadu,South,89380
+10085,2024-02-10,2024-01-05,Suresh Iyer,Clothing,Headphones,3,29301,Credit Card,Returned,Bengaluru,Telangana,South,87903
+10086,2024-06-05,2024-01-10,Suresh Iyer,Books,Headphones,1,690,Cash on Delivery,Delivered,Pune,Tamil Nadu,East,690
+10087,2024-01-15,2024-01-08,Rohit Verma,Clothing,Mobile,4,45736,Credit Card,Returned,Bengaluru,Maharashtra,North,182944
+10088,2024-02-14,2024-01-10,Rohit Verma,Electronics,Face Cream,3,11869,Cash on Delivery,Returned,Chennai,Tamil Nadu,West,35607
+10089,2024-03-05,2024-01-06,Suresh Iyer,Clothing,Headphones,3,13329,Net Banking,In Transit,Mumbai,Telangana,East,39987
+10090,2024-03-29,2024-01-06,Anjali Deshmukh,Electronics,Laptop,2,22790,Cash on Delivery,In Transit,Hyderabad,Maharashtra,South,45580
+10091,2024-03-11,2024-01-09,Amit Sharma,Home Appliances,Novel,4,46175,Credit Card,Returned,Delhi,Karnataka,North,184700
+10092,2024-01-09,2024-01-07,Karan Malhotra,Books,Mobile,5,6167,Net Banking,Returned,Mumbai,Maharashtra,West,30835
+10093,2024-03-28,2024-01-06,Neha Patil,Electronics,Laptop,3,9421,UPI,Returned,Chennai,Delhi,East,28263
+10094,2024-05-08,2024-01-05,Sneha Kulkarni,Clothing,Mixer,5,1839,Debit Card,In Transit,Chennai,Maharashtra,West,9195
+10095,2024-05-15,2024-01-10,Priya Nair,Books,Shirt,3,17327,Credit Card,In Transit,Chennai,Karnataka,North,51981
+10096,2024-03-03,2024-01-10,Sneha Kulkarni,Home Appliances,Mixer,5,74529,Credit Card,Cancelled,Chennai,Tamil Nadu,North,372645
+10097,2024-05-18,2024-01-09,Priya Nair,Books,Shirt,4,9221,Credit Card,Returned,Pune,Maharashtra,South,36884
+10098,2024-03-21,2024-01-11,Anjali Deshmukh,Electronics,Mixer,2,50735,Net Banking,Cancelled,Delhi,Maharashtra,North,101470
+10099,2024-05-15,2024-01-11,Priya Nair,Home Appliances,Headphones,4,10610,UPI,Returned,Hyderabad,Maharashtra,East,42440
+10100,2024-06-11,2024-01-08,Rohit Verma,Clothing,Laptop,1,64265,Cash on Delivery,In Transit,Chennai,Maharashtra,West,64265
+10101,2024-06-11,2024-01-09,Karan Malhotra,Home Appliances,Shirt,2,70222,UPI,Cancelled,Chennai,Karnataka,North,140444
+10102,2024-02-02,2024-01-12,Karan Malhotra,Home Appliances,Mobile,4,12542,Net Banking,Cancelled,Bengaluru,Telangana,North,50168
+10103,2024-05-02,2024-01-08,Rohit Verma,Beauty,Laptop,1,9247,Credit Card,Delivered,Delhi,Telangana,East,9247
+10104,2024-01-05,2024-01-12,Pooja Singh,Home Appliances,Mobile,3,71766,Debit Card,Returned,Mumbai,Maharashtra,West,215298
+10105,2024-02-10,2024-01-11,Anjali Deshmukh,Home Appliances,Laptop,3,62116,Credit Card,In Transit,Delhi,Karnataka,West,186348
+10106,2024-01-28,2024-01-09,Pooja Singh,Books,Laptop,5,49085,Cash on Delivery,Delivered,Delhi,Karnataka,South,245425
+10107,2024-05-14,2024-01-12,Pooja Singh,Clothing,Mixer,2,807,Debit Card,Delivered,Hyderabad,Maharashtra,South,1614
+10108,2024-03-12,2024-01-09,Sneha Kulkarni,Books,Shirt,3,67272,Credit Card,Returned,Delhi,Delhi,West,201816
+10109,2024-01-12,2024-01-09,Suresh Iyer,Books,Shirt,2,27451,Debit Card,Delivered,Hyderabad,Maharashtra,East,54902
+10110,2024-06-10,2024-01-11,Sneha Kulkarni,Electronics,Face Cream,3,11918,UPI,Returned,Chennai,Delhi,East,35754
+10111,2024-02-02,2024-01-08,Suresh Iyer,Books,Laptop,5,74586,Net Banking,Delivered,Chennai,Maharashtra,South,372930
+10112,2024-02-17,2024-01-08,Neha Patil,Beauty,Headphones,4,16422,Credit Card,Returned,Pune,Delhi,North,65688
+10113,2024-05-30,2024-01-09,Priya Nair,Beauty,Headphones,5,7654,Cash on Delivery,In Transit,Hyderabad,Delhi,East,38270
+10114,2024-03-02,2024-01-06,Suresh Iyer,Electronics,Mobile,1,31279,UPI,Returned,Hyderabad,Maharashtra,North,31279
+10115,2024-02-06,2024-01-07,Rohit Verma,Clothing,Mobile,3,79676,Credit Card,Returned,Mumbai,Delhi,East,239028
+10116,2024-04-08,2024-01-11,Sneha Kulkarni,Clothing,Mixer,1,53074,UPI,Cancelled,Bengaluru,Tamil Nadu,West,53074
+10117,2024-06-20,2024-01-07,Anjali Deshmukh,Books,Laptop,1,5337,Cash on Delivery,In Transit,Delhi,Telangana,South,5337
+10118,2024-04-13,2024-01-07,Priya Nair,Books,Mobile,2,28933,Credit Card,In Transit,Mumbai,Karnataka,North,57866
+10119,2024-02-04,2024-01-08,Neha Patil,Books,Mobile,3,24795,Cash on Delivery,In Transit,Hyderabad,Delhi,North,74385
+10120,2024-04-10,2024-01-08,Suresh Iyer,Clothing,Novel,1,64850,Debit Card,Delivered,Mumbai,Delhi,West,64850
+10121,2024-06-23,2024-01-06,Neha Patil,Home Appliances,Laptop,4,36783,Cash on Delivery,Cancelled,Pune,Karnataka,East,147132
+10122,2024-05-10,2024-01-07,Anjali Deshmukh,Beauty,Mixer,1,73673,Debit Card,In Transit,Bengaluru,Delhi,North,73673
+10123,2024-01-01,2024-01-07,Pooja Singh,Home Appliances,Mobile,4,34369,Credit Card,Delivered,Hyderabad,Karnataka,East,137476
+10124,2024-01-05,2024-01-09,Karan Malhotra,Home Appliances,Mixer,2,7670,Debit Card,Delivered,Hyderabad,Maharashtra,West,15340
+10125,2024-05-21,2024-01-08,Anjali Deshmukh,Clothing,Shirt,1,72247,Credit Card,Delivered,Delhi,Tamil Nadu,South,72247
+10126,2024-04-12,2024-01-07,Rahul Mehta,Home Appliances,Mixer,5,39433,Credit Card,Cancelled,Bengaluru,Tamil Nadu,North,197165
+10127,2024-01-27,2024-01-10,Anjali Deshmukh,Electronics,Headphones,2,992,Net Banking,Delivered,Pune,Telangana,East,1984
+10128,2024-05-16,2024-01-06,Neha Patil,Books,Headphones,4,29226,Credit Card,Cancelled,Chennai,Delhi,North,116904
+10129,2024-01-15,2024-01-12,Rohit Verma,Electronics,Mixer,2,74284,Debit Card,Returned,Mumbai,Telangana,East,148568
+10130,2024-03-30,2024-01-10,Sneha Kulkarni,Beauty,Headphones,1,43690,Net Banking,Delivered,Delhi,Maharashtra,East,43690
+10131,2024-02-11,2024-01-10,Rohit Verma,Books,Shirt,3,49893,Net Banking,In Transit,Hyderabad,Tamil Nadu,East,149679
+10132,2024-05-03,2024-01-12,Neha Patil,Home Appliances,Laptop,3,75909,Credit Card,Delivered,Chennai,Maharashtra,West,227727
+10133,2024-06-27,2024-01-11,Sneha Kulkarni,Beauty,Headphones,4,5509,Cash on Delivery,Returned,Pune,Maharashtra,South,22036
+10134,2024-03-03,2024-01-11,Rahul Mehta,Books,Headphones,4,6833,Cash on Delivery,Returned,Bengaluru,Delhi,North,27332
+10135,2024-04-05,2024-01-06,Karan Malhotra,Home Appliances,Mixer,3,7511,Net Banking,Delivered,Mumbai,Maharashtra,South,22533
+10136,2024-02-21,2024-01-10,Priya Nair,Electronics,Shirt,4,10227,Credit Card,Returned,Delhi,Tamil Nadu,East,40908
+10137,2024-04-05,2024-01-07,Neha Patil,Books,Face Cream,2,77763,Cash on Delivery,Cancelled,Hyderabad,Telangana,East,155526
+10138,2024-05-11,2024-01-08,Suresh Iyer,Home Appliances,Face Cream,5,24894,Credit Card,Cancelled,Hyderabad,Tamil Nadu,South,124470
+10139,2024-05-30,2024-01-06,Neha Patil,Electronics,Face Cream,5,75152,Credit Card,Delivered,Chennai,Delhi,South,375760
+10140,2024-05-22,2024-01-09,Neha Patil,Beauty,Face Cream,2,78013,Net Banking,Cancelled,Chennai,Tamil Nadu,North,156026
+10141,2024-06-19,2024-01-12,Sneha Kulkarni,Beauty,Laptop,5,76682,Net Banking,Cancelled,Mumbai,Karnataka,East,383410
+10142,2024-01-29,2024-01-10,Amit Sharma,Beauty,Mixer,1,8233,UPI,In Transit,Bengaluru,Telangana,South,8233
+10143,2024-02-05,2024-01-06,Anjali Deshmukh,Beauty,Mixer,2,40996,Cash on Delivery,Delivered,Pune,Karnataka,West,81992
+10144,2024-01-13,2024-01-05,Amit Sharma,Clothing,Novel,4,65749,Cash on Delivery,Returned,Bengaluru,Karnataka,East,262996
+10145,2024-06-08,2024-01-05,Rahul Mehta,Books,Shirt,2,67916,Cash on Delivery,Delivered,Bengaluru,Delhi,East,135832
+10146,2024-03-11,2024-01-11,Suresh Iyer,Books,Face Cream,3,6389,Debit Card,Cancelled,Bengaluru,Maharashtra,North,19167
+10147,2024-03-26,2024-01-12,Karan Malhotra,Clothing,Laptop,4,56848,Credit Card,In Transit,Mumbai,Karnataka,West,227392
+10148,2024-01-28,2024-01-08,Pooja Singh,Home Appliances,Shirt,3,26423,Net Banking,Delivered,Mumbai,Tamil Nadu,North,79269
+10149,2024-03-06,2024-01-07,Rahul Mehta,Home Appliances,Face Cream,4,8097,Cash on Delivery,Delivered,Pune,Maharashtra,West,32388
+10150,2024-06-18,2024-01-08,Pooja Singh,Beauty,Laptop,5,50313,UPI,Cancelled,Bengaluru,Tamil Nadu,North,251565
+10151,2024-02-14,2024-01-08,Pooja Singh,Electronics,Shirt,2,8646,Cash on Delivery,Cancelled,Mumbai,Tamil Nadu,West,17292
+10152,2024-03-02,2024-01-08,Karan Malhotra,Home Appliances,Mixer,1,33972,Credit Card,Delivered,Pune,Maharashtra,West,33972
+10153,2024-05-13,2024-01-12,Rohit Verma,Electronics,Mixer,4,17953,Credit Card,Cancelled,Hyderabad,Maharashtra,West,71812
+10154,2024-01-28,2024-01-08,Amit Sharma,Books,Mobile,4,49856,Net Banking,Cancelled,Pune,Tamil Nadu,South,199424
+10155,2024-01-28,2024-01-09,Neha Patil,Electronics,Headphones,3,26440,Debit Card,Cancelled,Bengaluru,Delhi,East,79320
+10156,2024-04-17,2024-01-12,Priya Nair,Books,Face Cream,5,1484,Net Banking,Cancelled,Delhi,Telangana,West,7420
+10157,2024-02-13,2024-01-09,Pooja Singh,Clothing,Novel,3,34793,Cash on Delivery,Cancelled,Bengaluru,Telangana,South,104379
+10158,2024-03-24,2024-01-12,Suresh Iyer,Clothing,Shirt,3,44448,UPI,In Transit,Delhi,Delhi,South,133344
+10159,2024-01-30,2024-01-11,Rahul Mehta,Beauty,Novel,5,25146,Net Banking,Cancelled,Pune,Maharashtra,North,125730
+10160,2024-03-15,2024-01-06,Rohit Verma,Home Appliances,Mobile,1,22495,Debit Card,Returned,Hyderabad,Tamil Nadu,East,22495
+10161,2024-05-07,2024-01-05,Pooja Singh,Beauty,Headphones,3,5906,Net Banking,Delivered,Hyderabad,Telangana,East,17718
+10162,2024-04-01,2024-01-08,Rohit Verma,Books,Shirt,3,4256,Credit Card,In Transit,Mumbai,Tamil Nadu,North,12768
+10163,2024-05-08,2024-01-11,Rohit Verma,Beauty,Laptop,4,16855,Cash on Delivery,In Transit,Hyderabad,Delhi,East,67420
+10164,2024-04-30,2024-01-06,Pooja Singh,Electronics,Face Cream,5,18990,Cash on Delivery,Cancelled,Chennai,Tamil Nadu,North,94950
+10165,2024-01-27,2024-01-05,Sneha Kulkarni,Books,Headphones,2,58802,Cash on Delivery,Delivered,Pune,Delhi,South,117604
+10166,2024-04-30,2024-01-10,Anjali Deshmukh,Clothing,Mixer,1,49149,Cash on Delivery,Returned,Mumbai,Maharashtra,South,49149
+10167,2024-04-25,2024-01-07,Suresh Iyer,Home Appliances,Mobile,1,26647,Cash on Delivery,Cancelled,Hyderabad,Delhi,West,26647
+10168,2024-01-03,2024-01-09,Neha Patil,Books,Headphones,5,49356,Cash on Delivery,Delivered,Pune,Delhi,North,246780
+10169,2024-04-12,2024-01-10,Neha Patil,Books,Face Cream,4,64151,UPI,Cancelled,Bengaluru,Telangana,South,256604
+10170,2024-06-03,2024-01-12,Suresh Iyer,Electronics,Headphones,4,70511,Debit Card,Cancelled,Hyderabad,Tamil Nadu,South,282044
+10171,2024-05-16,2024-01-05,Sneha Kulkarni,Home Appliances,Face Cream,5,42150,Cash on Delivery,Cancelled,Delhi,Telangana,North,210750
+10172,2024-03-02,2024-01-10,Neha Patil,Clothing,Mixer,4,78845,Debit Card,Cancelled,Pune,Karnataka,South,315380
+10173,2024-06-13,2024-01-07,Rohit Verma,Books,Shirt,1,28143,Cash on Delivery,Cancelled,Mumbai,Delhi,East,28143
+10174,2024-02-20,2024-01-11,Karan Malhotra,Books,Laptop,1,62620,Net Banking,Cancelled,Bengaluru,Karnataka,South,62620
+10175,2024-06-20,2024-01-05,Rahul Mehta,Electronics,Mixer,2,30093,Cash on Delivery,Cancelled,Chennai,Telangana,North,60186
+10176,2024-05-31,2024-01-10,Amit Sharma,Beauty,Laptop,5,39816,Credit Card,Returned,Bengaluru,Tamil Nadu,East,199080
+10177,2024-02-28,2024-01-09,Neha Patil,Clothing,Shirt,3,18157,UPI,In Transit,Hyderabad,Telangana,East,54471
+10178,2024-04-27,2024-01-09,Suresh Iyer,Home Appliances,Headphones,3,19927,Net Banking,Returned,Delhi,Tamil Nadu,South,59781
+10179,2024-06-08,2024-01-06,Karan Malhotra,Books,Laptop,2,62122,Net Banking,Cancelled,Bengaluru,Tamil Nadu,West,124244
+10180,2024-04-05,2024-01-10,Pooja Singh,Books,Mobile,2,52548,Credit Card,Cancelled,Chennai,Maharashtra,East,105096
+10181,2024-06-28,2024-01-08,Anjali Deshmukh,Clothing,Mobile,4,56098,Cash on Delivery,Returned,Mumbai,Delhi,North,224392
+10182,2024-04-22,2024-01-10,Suresh Iyer,Beauty,Face Cream,2,44416,UPI,Returned,Pune,Telangana,West,88832
+10183,2024-03-02,2024-01-11,Rohit Verma,Books,Mixer,2,75618,Net Banking,In Transit,Delhi,Tamil Nadu,West,151236
+10184,2024-02-21,2024-01-05,Anjali Deshmukh,Clothing,Shirt,3,28857,UPI,Returned,Chennai,Telangana,East,86571
+10185,2024-01-12,2024-01-05,Rahul Mehta,Electronics,Face Cream,4,71634,Net Banking,In Transit,Hyderabad,Telangana,South,286536
+10186,2024-02-08,2024-01-11,Rahul Mehta,Beauty,Mixer,2,75463,Cash on Delivery,Cancelled,Hyderabad,Tamil Nadu,West,150926
+10187,2024-05-09,2024-01-10,Sneha Kulkarni,Home Appliances,Mixer,2,78302,Net Banking,Delivered,Hyderabad,Karnataka,South,156604
+10188,2024-05-10,2024-01-11,Priya Nair,Books,Face Cream,4,42914,Net Banking,Delivered,Delhi,Delhi,East,171656
+10189,2024-04-22,2024-01-07,Sneha Kulkarni,Clothing,Novel,5,13020,Debit Card,Delivered,Bengaluru,Delhi,North,65100
+10190,2024-04-10,2024-01-12,Karan Malhotra,Electronics,Mixer,4,57908,Cash on Delivery,Delivered,Delhi,Maharashtra,West,231632
+10191,2024-04-22,2024-01-11,Anjali Deshmukh,Home Appliances,Novel,3,72395,Credit Card,Cancelled,Hyderabad,Maharashtra,North,217185
+10192,2024-03-21,2024-01-09,Priya Nair,Clothing,Mobile,5,36192,Credit Card,Delivered,Chennai,Maharashtra,South,180960
+10193,2024-04-22,2024-01-11,Pooja Singh,Clothing,Mobile,1,77542,Cash on Delivery,Returned,Pune,Delhi,South,77542
+10194,2024-01-02,2024-01-05,Rohit Verma,Home Appliances,Mixer,4,77906,Credit Card,Returned,Pune,Karnataka,North,311624
+10195,2024-05-09,2024-01-09,Anjali Deshmukh,Electronics,Mobile,3,1224,Cash on Delivery,Delivered,Delhi,Delhi,East,3672
+10196,2024-02-23,2024-01-05,Sneha Kulkarni,Electronics,Shirt,5,51622,Credit Card,Returned,Hyderabad,Delhi,East,258110
+10197,2024-03-27,2024-01-06,Amit Sharma,Beauty,Novel,4,26778,Debit Card,In Transit,Mumbai,Delhi,West,107112
+10198,2024-05-08,2024-01-08,Priya Nair,Books,Novel,2,71342,Credit Card,Cancelled,Delhi,Delhi,West,142684
+10199,2024-05-26,2024-01-05,Priya Nair,Home Appliances,Mixer,4,46718,Net Banking,Delivered,Hyderabad,Karnataka,East,186872
+10200,2024-05-05,2024-01-09,Rohit Verma,Home Appliances,Mobile,1,62517,Cash on Delivery,Delivered,Bengaluru,Maharashtra,East,62517
+10201,2024-05-09,2024-01-06,Neha Patil,Home Appliances,Laptop,4,74062,UPI,Cancelled,Pune,Telangana,North,296248
+10202,2024-02-22,2024-01-05,Rahul Mehta,Electronics,Face Cream,5,12081,UPI,Returned,Pune,Maharashtra,South,60405
+10203,2024-06-20,2024-01-07,Rahul Mehta,Books,Face Cream,5,5815,Cash on Delivery,Cancelled,Pune,Maharashtra,South,29075
+10204,2024-06-08,2024-01-11,Amit Sharma,Beauty,Novel,4,36433,Debit Card,Cancelled,Mumbai,Telangana,West,145732
+10205,2024-06-08,2024-01-08,Karan Malhotra,Clothing,Mixer,5,77246,Credit Card,Returned,Hyderabad,Delhi,East,386230
+10206,2024-03-08,2024-01-05,Karan Malhotra,Clothing,Mixer,2,9395,Debit Card,Cancelled,Hyderabad,Karnataka,North,18790
+10207,2024-05-02,2024-01-06,Pooja Singh,Home Appliances,Shirt,4,20770,UPI,Returned,Hyderabad,Karnataka,West,83080
+10208,2024-05-24,2024-01-07,Anjali Deshmukh,Books,Headphones,2,43429,Cash on Delivery,Returned,Hyderabad,Maharashtra,North,86858
+10209,2024-02-07,2024-01-10,Suresh Iyer,Electronics,Headphones,2,8831,Cash on Delivery,Cancelled,Mumbai,Telangana,East,17662
+10210,2024-01-24,2024-01-06,Neha Patil,Books,Novel,3,37338,Debit Card,In Transit,Chennai,Tamil Nadu,East,112014
+10211,2024-03-09,2024-01-11,Sneha Kulkarni,Books,Face Cream,4,42974,Debit Card,Returned,Delhi,Delhi,East,171896
+10212,2024-04-25,2024-01-06,Suresh Iyer,Electronics,Shirt,5,30131,Credit Card,Cancelled,Delhi,Maharashtra,South,150655
+10213,2024-04-07,2024-01-07,Suresh Iyer,Home Appliances,Shirt,2,57474,Net Banking,Returned,Hyderabad,Karnataka,East,114948
+10214,2024-05-18,2024-01-06,Priya Nair,Books,Shirt,3,11579,Net Banking,In Transit,Bengaluru,Telangana,West,34737
+10215,2024-05-23,2024-01-07,Amit Sharma,Clothing,Novel,4,38520,Credit Card,In Transit,Pune,Telangana,South,154080
+10216,2024-04-06,2024-01-05,Rahul Mehta,Electronics,Headphones,4,60910,Net Banking,Delivered,Mumbai,Maharashtra,North,243640
+10217,2024-05-03,2024-01-12,Pooja Singh,Beauty,Face Cream,1,53019,UPI,Returned,Bengaluru,Tamil Nadu,West,53019
+10218,2024-03-10,2024-01-07,Karan Malhotra,Home Appliances,Shirt,1,53351,Net Banking,Returned,Bengaluru,Karnataka,West,53351
+10219,2024-04-02,2024-01-07,Amit Sharma,Electronics,Face Cream,2,72313,Credit Card,Cancelled,Hyderabad,Maharashtra,North,144626
+10220,2024-01-03,2024-01-08,Priya Nair,Beauty,Mobile,1,56952,Net Banking,Returned,Mumbai,Tamil Nadu,South,56952
+10221,2024-05-27,2024-01-07,Sneha Kulkarni,Beauty,Mixer,2,65824,Cash on Delivery,Delivered,Delhi,Telangana,West,131648
+10222,2024-06-12,2024-01-07,Pooja Singh,Books,Mixer,5,6770,Debit Card,In Transit,Pune,Delhi,West,33850
+10223,2024-05-26,2024-01-10,Priya Nair,Books,Face Cream,2,67898,UPI,In Transit,Delhi,Karnataka,West,135796
+10224,2024-03-30,2024-01-12,Rahul Mehta,Books,Laptop,1,42098,Cash on Delivery,Delivered,Bengaluru,Karnataka,South,42098
+10225,2024-05-26,2024-01-05,Rahul Mehta,Electronics,Laptop,5,53773,Cash on Delivery,Returned,Pune,Tamil Nadu,South,268865
+10226,2024-05-27,2024-01-11,Rahul Mehta,Electronics,Novel,1,20180,Credit Card,Returned,Chennai,Maharashtra,South,20180
+10227,2024-04-05,2024-01-08,Amit Sharma,Home Appliances,Novel,2,44739,Debit Card,Delivered,Bengaluru,Telangana,West,89478
+10228,2024-02-21,2024-01-10,Amit Sharma,Books,Mixer,3,14608,Debit Card,Cancelled,Delhi,Tamil Nadu,East,43824
+10229,2024-06-09,2024-01-09,Karan Malhotra,Beauty,Mobile,4,35381,UPI,In Transit,Delhi,Delhi,North,141524
+10230,2024-06-16,2024-01-12,Karan Malhotra,Clothing,Headphones,1,75542,Credit Card,Delivered,Hyderabad,Delhi,East,75542
+10231,2024-05-07,2024-01-05,Sneha Kulkarni,Home Appliances,Headphones,2,50683,UPI,Delivered,Delhi,Delhi,South,101366
+10232,2024-02-08,2024-01-05,Pooja Singh,Electronics,Novel,5,10137,Net Banking,Returned,Mumbai,Tamil Nadu,West,50685
+10233,2024-03-22,2024-01-09,Rohit Verma,Home Appliances,Mobile,1,52451,Cash on Delivery,In Transit,Bengaluru,Telangana,West,52451
+10234,2024-04-13,2024-01-11,Rohit Verma,Home Appliances,Novel,1,37124,UPI,Returned,Pune,Karnataka,East,37124
+10235,2024-05-08,2024-01-07,Priya Nair,Home Appliances,Headphones,4,33373,Cash on Delivery,Delivered,Delhi,Maharashtra,East,133492
+10236,2024-01-11,2024-01-10,Rahul Mehta,Home Appliances,Face Cream,2,26599,Credit Card,Cancelled,Hyderabad,Karnataka,North,53198
+10237,2024-06-26,2024-01-06,Pooja Singh,Clothing,Novel,3,59161,Net Banking,In Transit,Hyderabad,Telangana,West,177483
+10238,2024-05-30,2024-01-08,Suresh Iyer,Books,Shirt,5,30363,Credit Card,Delivered,Delhi,Karnataka,East,151815
+10239,2024-06-07,2024-01-06,Amit Sharma,Beauty,Face Cream,2,69753,Net Banking,Delivered,Mumbai,Tamil Nadu,North,139506
+10240,2024-02-11,2024-01-09,Anjali Deshmukh,Home Appliances,Novel,5,68772,Net Banking,Cancelled,Hyderabad,Delhi,South,343860
+10241,2024-04-08,2024-01-05,Neha Patil,Home Appliances,Mixer,1,14806,Cash on Delivery,Delivered,Pune,Telangana,East,14806
+10242,2024-01-07,2024-01-11,Sneha Kulkarni,Home Appliances,Novel,4,26326,Credit Card,Delivered,Bengaluru,Telangana,South,105304
+10243,2024-05-23,2024-01-05,Rahul Mehta,Books,Mixer,4,27972,Credit Card,In Transit,Chennai,Karnataka,North,111888
+10244,2024-03-30,2024-01-08,Rahul Mehta,Electronics,Mobile,3,38717,UPI,In Transit,Mumbai,Tamil Nadu,South,116151
+10245,2024-04-21,2024-01-05,Rahul Mehta,Electronics,Headphones,4,52713,Credit Card,In Transit,Hyderabad,Karnataka,West,210852
+10246,2024-02-29,2024-01-05,Amit Sharma,Clothing,Face Cream,1,65366,UPI,Returned,Bengaluru,Karnataka,West,65366
+10247,2024-04-22,2024-01-08,Amit Sharma,Electronics,Face Cream,3,59513,Debit Card,Cancelled,Chennai,Telangana,South,178539
+10248,2024-01-02,2024-01-10,Neha Patil,Home Appliances,Laptop,2,51271,Debit Card,In Transit,Delhi,Karnataka,West,102542
+10249,2024-05-08,2024-01-10,Suresh Iyer,Home Appliances,Laptop,4,27581,Debit Card,Returned,Delhi,Delhi,North,110324
+10250,2024-02-17,2024-01-08,Pooja Singh,Home Appliances,Headphones,3,28391,Credit Card,Returned,Pune,Karnataka,West,85173
+10251,2024-05-19,2024-01-11,Rahul Mehta,Clothing,Laptop,1,50794,Credit Card,Cancelled,Chennai,Delhi,South,50794
+10252,2024-02-06,2024-01-09,Rohit Verma,Home Appliances,Face Cream,5,18910,UPI,Cancelled,Delhi,Telangana,South,94550
+10253,2024-06-08,2024-01-12,Karan Malhotra,Electronics,Novel,5,1379,Net Banking,Delivered,Delhi,Tamil Nadu,South,6895
+10254,2024-01-09,2024-01-05,Rohit Verma,Books,Mobile,1,47051,UPI,Returned,Hyderabad,Delhi,East,47051
+10255,2024-04-08,2024-01-11,Priya Nair,Books,Mobile,1,55732,Debit Card,In Transit,Pune,Tamil Nadu,South,55732
+10256,2024-05-26,2024-01-05,Rohit Verma,Beauty,Headphones,5,31251,UPI,Cancelled,Bengaluru,Tamil Nadu,North,156255
+10257,2024-02-17,2024-01-12,Priya Nair,Electronics,Laptop,3,78591,Net Banking,Returned,Delhi,Delhi,West,235773
+10258,2024-05-10,2024-01-09,Anjali Deshmukh,Home Appliances,Novel,5,60172,Credit Card,In Transit,Mumbai,Telangana,West,300860
+10259,2024-05-27,2024-01-10,Karan Malhotra,Books,Mobile,1,7535,UPI,Returned,Mumbai,Maharashtra,East,7535
+10260,2024-05-31,2024-01-11,Rohit Verma,Electronics,Mobile,4,63012,Debit Card,Cancelled,Bengaluru,Tamil Nadu,East,252048
+10261,2024-02-23,2024-01-07,Anjali Deshmukh,Books,Shirt,2,21773,Debit Card,Delivered,Chennai,Tamil Nadu,North,43546
+10262,2024-04-29,2024-01-07,Sneha Kulkarni,Home Appliances,Shirt,4,67867,Credit Card,Returned,Pune,Telangana,South,271468
+10263,2024-06-09,2024-01-12,Pooja Singh,Books,Face Cream,4,32530,UPI,In Transit,Hyderabad,Telangana,East,130120
+10264,2024-05-31,2024-01-07,Anjali Deshmukh,Beauty,Mobile,1,69176,Net Banking,Cancelled,Mumbai,Karnataka,West,69176
+10265,2024-04-25,2024-01-10,Pooja Singh,Beauty,Headphones,5,40944,Credit Card,Delivered,Mumbai,Telangana,East,204720
+10266,2024-03-15,2024-01-12,Rohit Verma,Books,Mixer,3,48964,UPI,In Transit,Bengaluru,Tamil Nadu,East,146892
+10267,2024-04-22,2024-01-10,Suresh Iyer,Electronics,Mixer,4,45503,Cash on Delivery,In Transit,Chennai,Delhi,South,182012
+10268,2024-06-12,2024-01-09,Anjali Deshmukh,Electronics,Novel,5,66977,Debit Card,In Transit,Chennai,Maharashtra,East,334885
+10269,2024-06-14,2024-01-05,Karan Malhotra,Electronics,Mobile,3,25725,Net Banking,Returned,Bengaluru,Karnataka,North,77175
+10270,2024-04-13,2024-01-09,Rohit Verma,Books,Mobile,4,70106,Net Banking,Cancelled,Mumbai,Delhi,West,280424
+10271,2024-03-24,2024-01-09,Rahul Mehta,Electronics,Face Cream,3,43114,Net Banking,In Transit,Pune,Maharashtra,South,129342
+10272,2024-04-21,2024-01-10,Amit Sharma,Home Appliances,Mobile,5,70519,Debit Card,Returned,Mumbai,Maharashtra,West,352595
+10273,2024-04-08,2024-01-12,Anjali Deshmukh,Beauty,Headphones,2,49946,UPI,Cancelled,Chennai,Maharashtra,North,99892
+10274,2024-06-01,2024-01-12,Karan Malhotra,Home Appliances,Shirt,5,40184,Credit Card,Cancelled,Hyderabad,Delhi,North,200920
+10275,2024-04-02,2024-01-07,Sneha Kulkarni,Electronics,Mobile,1,69622,UPI,Returned,Mumbai,Karnataka,East,69622
+10276,2024-05-25,2024-01-06,Rahul Mehta,Home Appliances,Mobile,3,21950,Credit Card,Returned,Pune,Karnataka,East,65850
+10277,2024-05-07,2024-01-05,Sneha Kulkarni,Electronics,Face Cream,2,9490,Net Banking,In Transit,Delhi,Maharashtra,East,18980
+10278,2024-04-19,2024-01-10,Rohit Verma,Books,Laptop,3,38496,UPI,Cancelled,Mumbai,Delhi,West,115488
+10279,2024-03-22,2024-01-07,Amit Sharma,Home Appliances,Face Cream,3,39749,Net Banking,Delivered,Bengaluru,Maharashtra,North,119247
+10280,2024-02-23,2024-01-11,Anjali Deshmukh,Books,Face Cream,4,39961,Cash on Delivery,Returned,Delhi,Telangana,South,159844
+10281,2024-06-11,2024-01-06,Anjali Deshmukh,Books,Headphones,1,30009,Net Banking,Cancelled,Bengaluru,Karnataka,East,30009
+10282,2024-06-17,2024-01-06,Suresh Iyer,Clothing,Novel,3,75479,Net Banking,Cancelled,Bengaluru,Tamil Nadu,West,226437
+10283,2024-06-09,2024-01-10,Suresh Iyer,Electronics,Mobile,5,10243,Credit Card,In Transit,Bengaluru,Maharashtra,East,51215
+10284,2024-03-08,2024-01-08,Rohit Verma,Beauty,Face Cream,5,43540,Cash on Delivery,Delivered,Mumbai,Telangana,North,217700
+10285,2024-02-02,2024-01-05,Rohit Verma,Electronics,Face Cream,4,46060,Net Banking,In Transit,Chennai,Karnataka,South,184240
+10286,2024-05-21,2024-01-06,Amit Sharma,Beauty,Laptop,1,21342,Net Banking,Delivered,Delhi,Delhi,North,21342
+10287,2024-01-21,2024-01-10,Suresh Iyer,Electronics,Face Cream,1,44194,Cash on Delivery,Delivered,Pune,Karnataka,West,44194
+10288,2024-02-17,2024-01-10,Karan Malhotra,Books,Mixer,5,7169,Cash on Delivery,Returned,Chennai,Delhi,East,35845
+10289,2024-05-27,2024-01-07,Karan Malhotra,Home Appliances,Novel,2,61378,UPI,Cancelled,Mumbai,Delhi,North,122756
+10290,2024-05-07,2024-01-11,Amit Sharma,Home Appliances,Mobile,4,57059,Credit Card,Cancelled,Bengaluru,Maharashtra,West,228236
+10291,2024-05-15,2024-01-08,Karan Malhotra,Clothing,Mobile,4,44606,Cash on Delivery,Cancelled,Pune,Maharashtra,East,178424
+10292,2024-05-14,2024-01-05,Priya Nair,Beauty,Laptop,5,55671,Cash on Delivery,Delivered,Delhi,Karnataka,South,278355
+10293,2024-05-24,2024-01-12,Pooja Singh,Beauty,Headphones,5,21218,Debit Card,Cancelled,Chennai,Telangana,North,106090
+10294,2024-05-07,2024-01-09,Amit Sharma,Beauty,Mobile,2,28679,Cash on Delivery,Returned,Hyderabad,Karnataka,East,57358
+10295,2024-02-02,2024-01-11,Amit Sharma,Books,Mixer,2,3262,Credit Card,Delivered,Chennai,Tamil Nadu,East,6524
+10296,2024-06-24,2024-01-11,Neha Patil,Beauty,Mobile,1,14151,Net Banking,Delivered,Pune,Delhi,East,14151
+10297,2024-04-24,2024-01-07,Rahul Mehta,Home Appliances,Mixer,4,46047,Net Banking,Delivered,Mumbai,Delhi,East,184188
+10298,2024-04-28,2024-01-12,Rahul Mehta,Books,Novel,4,52649,Net Banking,Delivered,Delhi,Maharashtra,North,210596
+10299,2024-01-22,2024-01-06,Priya Nair,Electronics,Novel,5,71132,Net Banking,Returned,Pune,Telangana,East,355660
+10300,2024-06-06,2024-01-06,Suresh Iyer,Beauty,Shirt,1,56656,Debit Card,Cancelled,Bengaluru,Maharashtra,West,56656
+10301,2024-02-07,2024-01-07,Rohit Verma,Beauty,Shirt,4,15045,Cash on Delivery,Returned,Delhi,Tamil Nadu,North,60180
+10302,2024-04-18,2024-01-10,Rohit Verma,Electronics,Mixer,1,6030,Net Banking,Cancelled,Chennai,Karnataka,East,6030
+10303,2024-02-20,2024-01-06,Sneha Kulkarni,Beauty,Headphones,1,14221,UPI,Returned,Pune,Karnataka,North,14221
+10304,2024-01-08,2024-01-08,Priya Nair,Electronics,Mobile,5,71438,Net Banking,In Transit,Chennai,Telangana,West,357190
+10305,2024-01-27,2024-01-05,Amit Sharma,Books,Face Cream,1,19323,Cash on Delivery,In Transit,Chennai,Maharashtra,West,19323
+10306,2024-01-27,2024-01-11,Priya Nair,Home Appliances,Mobile,2,45649,Net Banking,In Transit,Chennai,Maharashtra,North,91298
+10307,2024-01-21,2024-01-11,Priya Nair,Electronics,Shirt,2,42279,Debit Card,In Transit,Mumbai,Tamil Nadu,East,84558
+10308,2024-01-30,2024-01-08,Priya Nair,Clothing,Face Cream,3,23137,Credit Card,Delivered,Chennai,Karnataka,East,69411
+10309,2024-04-06,2024-01-12,Rahul Mehta,Electronics,Mixer,5,15297,Credit Card,Delivered,Bengaluru,Maharashtra,West,76485
+10310,2024-01-28,2024-01-06,Priya Nair,Beauty,Face Cream,3,45339,Cash on Delivery,Returned,Bengaluru,Telangana,East,136017
+10311,2024-04-20,2024-01-11,Pooja Singh,Books,Mobile,2,21223,Credit Card,Returned,Delhi,Karnataka,West,42446
+10312,2024-03-01,2024-01-09,Rohit Verma,Books,Mobile,3,9176,Credit Card,In Transit,Hyderabad,Tamil Nadu,East,27528
+10313,2024-02-17,2024-01-12,Sneha Kulkarni,Electronics,Headphones,5,61273,UPI,Cancelled,Chennai,Telangana,West,306365
+10314,2024-05-26,2024-01-05,Pooja Singh,Home Appliances,Laptop,5,3187,Cash on Delivery,In Transit,Chennai,Delhi,South,15935
+10315,2024-01-04,2024-01-05,Sneha Kulkarni,Clothing,Face Cream,1,64023,Cash on Delivery,Returned,Pune,Tamil Nadu,East,64023
+10316,2024-02-04,2024-01-11,Neha Patil,Books,Shirt,4,42722,Credit Card,In Transit,Mumbai,Telangana,East,170888
+10317,2024-02-18,2024-01-07,Sneha Kulkarni,Beauty,Shirt,1,51713,Credit Card,Returned,Hyderabad,Maharashtra,East,51713
+10318,2024-01-17,2024-01-12,Rohit Verma,Beauty,Laptop,5,3141,Credit Card,In Transit,Delhi,Delhi,North,15705
+10319,2024-06-20,2024-01-11,Rohit Verma,Home Appliances,Mobile,2,29056,Debit Card,Cancelled,Hyderabad,Tamil Nadu,East,58112
+10320,2024-06-06,2024-01-07,Priya Nair,Books,Headphones,2,71876,Net Banking,In Transit,Chennai,Maharashtra,North,143752
+10321,2024-02-15,2024-01-11,Anjali Deshmukh,Electronics,Headphones,1,10604,Debit Card,Cancelled,Pune,Delhi,North,10604
+10322,2024-04-26,2024-01-09,Neha Patil,Beauty,Shirt,5,30641,Cash on Delivery,Cancelled,Mumbai,Karnataka,West,153205
+10323,2024-01-06,2024-01-12,Amit Sharma,Home Appliances,Headphones,2,5058,UPI,Returned,Delhi,Maharashtra,North,10116
+10324,2024-04-08,2024-01-10,Karan Malhotra,Books,Novel,5,17310,Net Banking,Cancelled,Hyderabad,Telangana,North,86550
+10325,2024-05-03,2024-01-05,Sneha Kulkarni,Books,Laptop,2,61058,UPI,Delivered,Delhi,Tamil Nadu,South,122116
+10326,2024-02-06,2024-01-11,Anjali Deshmukh,Books,Mobile,5,31958,Cash on Delivery,Delivered,Chennai,Delhi,East,159790
+10327,2024-01-24,2024-01-09,Priya Nair,Books,Novel,3,49302,Cash on Delivery,Delivered,Delhi,Maharashtra,North,147906
+10328,2024-04-02,2024-01-07,Rahul Mehta,Books,Laptop,5,1675,UPI,Returned,Pune,Karnataka,East,8375
+10329,2024-02-15,2024-01-07,Amit Sharma,Beauty,Mixer,5,22392,UPI,Delivered,Delhi,Tamil Nadu,North,111960
+10330,2024-04-04,2024-01-05,Suresh Iyer,Home Appliances,Face Cream,1,790,UPI,Returned,Bengaluru,Tamil Nadu,West,790
+10331,2024-04-08,2024-01-08,Anjali Deshmukh,Books,Shirt,3,4029,Cash on Delivery,Returned,Pune,Maharashtra,South,12087
+10332,2024-04-25,2024-01-11,Rahul Mehta,Clothing,Headphones,4,6274,Credit Card,Delivered,Hyderabad,Karnataka,North,25096
+10333,2024-06-08,2024-01-12,Neha Patil,Clothing,Mixer,1,21698,UPI,Cancelled,Mumbai,Delhi,East,21698
+10334,2024-06-09,2024-01-06,Priya Nair,Home Appliances,Headphones,4,34950,Net Banking,In Transit,Mumbai,Maharashtra,West,139800
+10335,2024-03-07,2024-01-07,Amit Sharma,Electronics,Novel,2,21592,Cash on Delivery,Returned,Chennai,Delhi,East,43184
+10336,2024-05-07,2024-01-12,Amit Sharma,Electronics,Mobile,4,3459,Debit Card,Delivered,Chennai,Tamil Nadu,West,13836
+10337,2024-01-18,2024-01-12,Amit Sharma,Electronics,Mobile,5,63066,Debit Card,Returned,Bengaluru,Delhi,South,315330
+10338,2024-01-25,2024-01-10,Neha Patil,Clothing,Mobile,4,17365,Net Banking,Cancelled,Hyderabad,Karnataka,West,69460
+10339,2024-02-23,2024-01-12,Sneha Kulkarni,Electronics,Headphones,1,21938,Credit Card,Cancelled,Mumbai,Telangana,East,21938
+10340,2024-02-27,2024-01-12,Suresh Iyer,Beauty,Mixer,1,1373,UPI,Delivered,Mumbai,Karnataka,East,1373
+10341,2024-03-07,2024-01-10,Neha Patil,Books,Mobile,4,46811,Cash on Delivery,Returned,Mumbai,Delhi,North,187244
+10342,2024-04-13,2024-01-07,Karan Malhotra,Clothing,Mixer,1,29620,UPI,In Transit,Mumbai,Maharashtra,West,29620
+10343,2024-06-22,2024-01-12,Suresh Iyer,Home Appliances,Headphones,1,70176,Cash on Delivery,In Transit,Delhi,Tamil Nadu,East,70176
+10344,2024-01-24,2024-01-08,Rohit Verma,Home Appliances,Novel,4,35224,Debit Card,Returned,Hyderabad,Telangana,North,140896
+10345,2024-04-23,2024-01-08,Priya Nair,Books,Mixer,3,41034,UPI,Returned,Pune,Maharashtra,South,123102
+10346,2024-02-01,2024-01-09,Neha Patil,Clothing,Novel,3,68416,Net Banking,Returned,Pune,Maharashtra,East,205248
+10347,2024-06-23,2024-01-10,Rahul Mehta,Electronics,Headphones,2,40325,Credit Card,Delivered,Bengaluru,Karnataka,North,80650
+10348,2024-03-26,2024-01-09,Suresh Iyer,Electronics,Headphones,1,2459,Net Banking,Cancelled,Delhi,Delhi,East,2459
+10349,2024-05-30,2024-01-10,Karan Malhotra,Beauty,Shirt,4,49240,Credit Card,In Transit,Mumbai,Karnataka,West,196960
+10350,2024-05-06,2024-01-11,Rohit Verma,Beauty,Headphones,1,79736,UPI,Delivered,Mumbai,Delhi,North,79736
+10351,2024-06-03,2024-01-11,Sneha Kulkarni,Electronics,Headphones,5,77276,UPI,Returned,Chennai,Karnataka,West,386380
+10352,2024-05-09,2024-01-12,Rahul Mehta,Home Appliances,Laptop,1,14978,Credit Card,Returned,Chennai,Maharashtra,South,14978
+10353,2024-01-17,2024-01-06,Suresh Iyer,Home Appliances,Mobile,1,61375,Debit Card,Cancelled,Bengaluru,Tamil Nadu,West,61375
+10354,2024-04-13,2024-01-11,Priya Nair,Beauty,Shirt,3,47504,Cash on Delivery,Returned,Mumbai,Delhi,North,142512
+10355,2024-06-09,2024-01-06,Rahul Mehta,Books,Face Cream,4,12321,Net Banking,Delivered,Bengaluru,Telangana,East,49284
+10356,2024-05-16,2024-01-11,Rohit Verma,Electronics,Shirt,1,7072,Net Banking,Delivered,Delhi,Telangana,North,7072
+10357,2024-02-12,2024-01-05,Rahul Mehta,Beauty,Shirt,3,67463,Net Banking,Cancelled,Pune,Maharashtra,West,202389
+10358,2024-06-24,2024-01-11,Pooja Singh,Beauty,Face Cream,2,74055,UPI,Delivered,Mumbai,Karnataka,West,148110
+10359,2024-02-08,2024-01-09,Anjali Deshmukh,Electronics,Laptop,3,23764,Net Banking,In Transit,Hyderabad,Karnataka,East,71292
+10360,2024-06-18,2024-01-07,Sneha Kulkarni,Electronics,Novel,3,51437,Cash on Delivery,Delivered,Delhi,Maharashtra,South,154311
+10361,2024-01-26,2024-01-12,Rohit Verma,Home Appliances,Headphones,3,30532,Cash on Delivery,Delivered,Mumbai,Telangana,North,91596
+10362,2024-04-08,2024-01-09,Rahul Mehta,Books,Mobile,1,61797,Credit Card,Delivered,Hyderabad,Telangana,East,61797
+10363,2024-02-19,2024-01-07,Anjali Deshmukh,Books,Mixer,1,74324,UPI,In Transit,Chennai,Karnataka,East,74324
+10364,2024-06-01,2024-01-08,Anjali Deshmukh,Electronics,Face Cream,2,51748,Cash on Delivery,Returned,Bengaluru,Delhi,East,103496
+10365,2024-05-31,2024-01-09,Rahul Mehta,Clothing,Novel,5,1201,Debit Card,Delivered,Chennai,Tamil Nadu,North,6005
+10366,2024-01-13,2024-01-08,Priya Nair,Beauty,Face Cream,5,3181,UPI,Cancelled,Pune,Delhi,North,15905
+10367,2024-02-29,2024-01-06,Pooja Singh,Beauty,Headphones,5,30163,UPI,In Transit,Chennai,Telangana,North,150815
+10368,2024-05-14,2024-01-06,Neha Patil,Electronics,Laptop,2,5922,Cash on Delivery,Cancelled,Mumbai,Delhi,South,11844
+10369,2024-02-26,2024-01-05,Pooja Singh,Clothing,Face Cream,5,1678,Debit Card,Delivered,Hyderabad,Tamil Nadu,East,8390
+10370,2024-02-05,2024-01-11,Rahul Mehta,Home Appliances,Headphones,5,71486,Credit Card,Cancelled,Chennai,Delhi,West,357430
+10371,2024-06-21,2024-01-09,Sneha Kulkarni,Electronics,Headphones,3,45501,Cash on Delivery,Delivered,Mumbai,Delhi,West,136503
+10372,2024-01-20,2024-01-08,Neha Patil,Electronics,Laptop,1,59551,Debit Card,In Transit,Pune,Delhi,East,59551
+10373,2024-03-05,2024-01-07,Rohit Verma,Beauty,Shirt,1,72872,UPI,Cancelled,Hyderabad,Delhi,West,72872
+10374,2024-01-08,2024-01-06,Pooja Singh,Electronics,Shirt,3,39555,Debit Card,Cancelled,Chennai,Maharashtra,South,118665
+10375,2024-05-23,2024-01-11,Rahul Mehta,Electronics,Mobile,3,63512,UPI,Delivered,Bengaluru,Telangana,South,190536
+10376,2024-05-21,2024-01-06,Pooja Singh,Electronics,Mobile,3,50510,Cash on Delivery,Delivered,Bengaluru,Tamil Nadu,North,151530
+10377,2024-04-24,2024-01-07,Neha Patil,Beauty,Shirt,1,22799,Cash on Delivery,Returned,Hyderabad,Telangana,North,22799
+10378,2024-05-22,2024-01-11,Karan Malhotra,Home Appliances,Novel,5,51928,Net Banking,Delivered,Bengaluru,Maharashtra,North,259640
+10379,2024-04-01,2024-01-11,Suresh Iyer,Home Appliances,Mixer,3,61660,Net Banking,Delivered,Chennai,Maharashtra,North,184980
+10380,2024-04-07,2024-01-08,Pooja Singh,Electronics,Headphones,2,4903,Net Banking,Returned,Chennai,Maharashtra,North,9806
+10381,2024-03-06,2024-01-08,Rohit Verma,Beauty,Mixer,3,12932,Cash on Delivery,Delivered,Hyderabad,Maharashtra,West,38796
+10382,2024-02-01,2024-01-09,Rohit Verma,Home Appliances,Headphones,4,30907,Credit Card,Delivered,Chennai,Delhi,West,123628
+10383,2024-03-26,2024-01-09,Amit Sharma,Home Appliances,Shirt,3,66056,Cash on Delivery,Returned,Mumbai,Telangana,North,198168
+10384,2024-02-20,2024-01-10,Pooja Singh,Home Appliances,Mobile,1,47294,Debit Card,In Transit,Pune,Karnataka,South,47294
+10385,2024-06-01,2024-01-12,Suresh Iyer,Beauty,Novel,3,63682,Cash on Delivery,In Transit,Bengaluru,Tamil Nadu,West,191046
+10386,2024-03-03,2024-01-10,Priya Nair,Beauty,Mobile,4,70654,Cash on Delivery,Delivered,Mumbai,Maharashtra,South,282616
+10387,2024-05-04,2024-01-05,Anjali Deshmukh,Electronics,Mixer,2,56644,UPI,Delivered,Hyderabad,Telangana,South,113288
+10388,2024-05-29,2024-01-06,Suresh Iyer,Books,Mobile,5,54075,UPI,Returned,Bengaluru,Maharashtra,East,270375
+10389,2024-02-27,2024-01-09,Anjali Deshmukh,Home Appliances,Shirt,3,7649,UPI,Returned,Mumbai,Maharashtra,East,22947
+10390,2024-02-27,2024-01-08,Anjali Deshmukh,Books,Novel,4,71454,Cash on Delivery,In Transit,Chennai,Maharashtra,North,285816
+10391,2024-03-26,2024-01-07,Karan Malhotra,Beauty,Mixer,4,27764,Credit Card,Cancelled,Hyderabad,Maharashtra,South,111056
+10392,2024-02-18,2024-01-08,Amit Sharma,Beauty,Novel,2,42924,Debit Card,Delivered,Hyderabad,Maharashtra,West,85848
+10393,2024-06-28,2024-01-06,Suresh Iyer,Beauty,Headphones,1,37644,Debit Card,Cancelled,Bengaluru,Tamil Nadu,East,37644
+10394,2024-06-18,2024-01-10,Suresh Iyer,Books,Mobile,3,24599,Credit Card,Cancelled,Chennai,Telangana,East,73797
+10395,2024-03-10,2024-01-08,Karan Malhotra,Beauty,Novel,4,48275,Credit Card,Returned,Bengaluru,Maharashtra,South,193100
+10396,2024-01-15,2024-01-12,Pooja Singh,Electronics,Laptop,2,1762,Debit Card,Delivered,Delhi,Maharashtra,East,3524
+10397,2024-02-23,2024-01-05,Pooja Singh,Beauty,Mobile,5,40881,Net Banking,Delivered,Mumbai,Maharashtra,East,204405
+10398,2024-04-10,2024-01-06,Pooja Singh,Clothing,Headphones,4,71589,UPI,Returned,Delhi,Maharashtra,West,286356
+10399,2024-01-08,2024-01-10,Sneha Kulkarni,Books,Novel,2,14475,UPI,Cancelled,Mumbai,Delhi,South,28950
+10400,2024-02-22,2024-01-12,Anjali Deshmukh,Clothing,Mixer,1,6491,Debit Card,Returned,Pune,Delhi,East,6491
+10401,2024-02-29,2024-01-07,Sneha Kulkarni,Beauty,Headphones,1,66837,Credit Card,In Transit,Hyderabad,Karnataka,South,66837
+10402,2024-04-17,2024-01-10,Amit Sharma,Electronics,Laptop,4,47945,Net Banking,Delivered,Bengaluru,Maharashtra,East,191780
+10403,2024-01-05,2024-01-11,Karan Malhotra,Home Appliances,Novel,4,23583,Debit Card,In Transit,Pune,Karnataka,West,94332
+10404,2024-04-12,2024-01-12,Suresh Iyer,Beauty,Face Cream,3,59423,UPI,Returned,Pune,Tamil Nadu,South,178269
+10405,2024-01-06,2024-01-12,Anjali Deshmukh,Electronics,Face Cream,2,30324,Cash on Delivery,Delivered,Hyderabad,Karnataka,East,60648
+10406,2024-04-18,2024-01-05,Sneha Kulkarni,Books,Shirt,4,49930,Credit Card,In Transit,Hyderabad,Telangana,West,199720
+10407,2024-04-25,2024-01-06,Sneha Kulkarni,Clothing,Mobile,3,31034,Cash on Delivery,In Transit,Mumbai,Delhi,East,93102
+10408,2024-04-03,2024-01-07,Rahul Mehta,Clothing,Mixer,3,815,Debit Card,Cancelled,Delhi,Delhi,South,2445
+10409,2024-02-16,2024-01-05,Sneha Kulkarni,Clothing,Shirt,4,67027,UPI,Delivered,Chennai,Maharashtra,East,268108
+10410,2024-04-08,2024-01-10,Priya Nair,Books,Novel,1,46516,Net Banking,In Transit,Mumbai,Maharashtra,South,46516
+10411,2024-02-24,2024-01-05,Suresh Iyer,Electronics,Face Cream,2,72133,Cash on Delivery,In Transit,Chennai,Tamil Nadu,South,144266
+10412,2024-06-16,2024-01-12,Priya Nair,Books,Face Cream,2,59055,Net Banking,Cancelled,Pune,Tamil Nadu,East,118110
+10413,2024-02-21,2024-01-06,Suresh Iyer,Clothing,Face Cream,1,28156,UPI,In Transit,Chennai,Telangana,West,28156
+10414,2024-05-23,2024-01-09,Karan Malhotra,Beauty,Novel,4,74170,Cash on Delivery,In Transit,Delhi,Maharashtra,North,296680
+10415,2024-01-13,2024-01-05,Suresh Iyer,Home Appliances,Face Cream,2,24462,Net Banking,In Transit,Mumbai,Maharashtra,West,48924
+10416,2024-04-23,2024-01-11,Priya Nair,Books,Headphones,4,6308,Net Banking,Cancelled,Hyderabad,Tamil Nadu,West,25232
+10417,2024-05-03,2024-01-05,Suresh Iyer,Books,Novel,4,8287,Cash on Delivery,In Transit,Delhi,Tamil Nadu,East,33148
+10418,2024-04-15,2024-01-10,Karan Malhotra,Electronics,Mixer,3,62832,UPI,In Transit,Delhi,Tamil Nadu,West,188496
+10419,2024-06-06,2024-01-10,Karan Malhotra,Electronics,Shirt,1,3632,Net Banking,Delivered,Mumbai,Delhi,West,3632
+10420,2024-05-26,2024-01-07,Amit Sharma,Books,Mixer,4,66623,Debit Card,Delivered,Hyderabad,Karnataka,North,266492
+10421,2024-05-24,2024-01-10,Suresh Iyer,Clothing,Laptop,5,39290,Cash on Delivery,Cancelled,Delhi,Karnataka,West,196450
+10422,2024-04-29,2024-01-08,Rahul Mehta,Home Appliances,Face Cream,1,10173,Credit Card,Returned,Hyderabad,Maharashtra,North,10173
+10423,2024-03-03,2024-01-06,Pooja Singh,Electronics,Laptop,2,36744,Credit Card,Delivered,Bengaluru,Delhi,East,73488
+10424,2024-01-19,2024-01-06,Rohit Verma,Clothing,Mobile,3,35640,UPI,Cancelled,Bengaluru,Tamil Nadu,North,106920
+10425,2024-04-01,2024-01-09,Karan Malhotra,Beauty,Mobile,2,5333,Debit Card,In Transit,Bengaluru,Maharashtra,South,10666
+10426,2024-02-27,2024-01-09,Neha Patil,Electronics,Laptop,2,73624,Net Banking,In Transit,Chennai,Delhi,South,147248
+10427,2024-03-30,2024-01-06,Pooja Singh,Clothing,Novel,1,15989,Credit Card,Cancelled,Delhi,Telangana,North,15989
+10428,2024-04-26,2024-01-11,Anjali Deshmukh,Clothing,Mixer,2,366,UPI,In Transit,Mumbai,Delhi,South,732
+10429,2024-03-02,2024-01-09,Suresh Iyer,Home Appliances,Laptop,4,45546,Debit Card,In Transit,Mumbai,Maharashtra,East,182184
+10430,2024-01-23,2024-01-07,Priya Nair,Home Appliances,Mobile,2,7833,Debit Card,Returned,Chennai,Karnataka,South,15666
+10431,2024-05-06,2024-01-10,Rohit Verma,Beauty,Laptop,3,70452,UPI,In Transit,Mumbai,Tamil Nadu,North,211356
+10432,2024-05-16,2024-01-06,Neha Patil,Clothing,Novel,3,59958,UPI,Delivered,Bengaluru,Telangana,East,179874
+10433,2024-05-19,2024-01-12,Pooja Singh,Clothing,Laptop,5,38798,Net Banking,In Transit,Delhi,Delhi,South,193990
+10434,2024-05-08,2024-01-09,Suresh Iyer,Home Appliances,Mixer,3,12072,UPI,Cancelled,Mumbai,Maharashtra,East,36216
+10435,2024-02-27,2024-01-06,Amit Sharma,Electronics,Shirt,2,49336,Net Banking,Returned,Mumbai,Maharashtra,North,98672
+10436,2024-05-01,2024-01-08,Anjali Deshmukh,Electronics,Novel,3,58831,Net Banking,In Transit,Pune,Tamil Nadu,South,176493
+10437,2024-01-01,2024-01-05,Rohit Verma,Books,Mobile,1,13240,Cash on Delivery,Cancelled,Pune,Maharashtra,East,13240
+10438,2024-02-03,2024-01-10,Rahul Mehta,Home Appliances,Mixer,3,17232,Debit Card,Delivered,Pune,Maharashtra,East,51696
+10439,2024-04-05,2024-01-06,Amit Sharma,Books,Laptop,4,57127,Debit Card,In Transit,Delhi,Tamil Nadu,South,228508
+10440,2024-05-05,2024-01-05,Neha Patil,Home Appliances,Laptop,1,61731,Debit Card,Returned,Bengaluru,Telangana,East,61731
+10441,2024-04-27,2024-01-09,Rohit Verma,Beauty,Shirt,5,24948,Cash on Delivery,In Transit,Hyderabad,Karnataka,East,124740
+10442,2024-02-17,2024-01-05,Amit Sharma,Clothing,Mobile,4,33266,Net Banking,Cancelled,Bengaluru,Karnataka,North,133064
+10443,2024-03-29,2024-01-10,Anjali Deshmukh,Beauty,Mobile,2,28077,Net Banking,Returned,Bengaluru,Delhi,North,56154
+10444,2024-04-26,2024-01-06,Rahul Mehta,Home Appliances,Headphones,2,32867,UPI,In Transit,Delhi,Telangana,North,65734
+10445,2024-05-08,2024-01-08,Amit Sharma,Clothing,Mobile,2,17474,Cash on Delivery,Delivered,Delhi,Delhi,North,34948
+10446,2024-01-16,2024-01-11,Sneha Kulkarni,Electronics,Shirt,4,42898,UPI,Returned,Pune,Karnataka,North,171592
+10447,2024-03-09,2024-01-09,Rahul Mehta,Electronics,Face Cream,4,59499,Cash on Delivery,Delivered,Mumbai,Tamil Nadu,North,237996
+10448,2024-01-22,2024-01-06,Neha Patil,Books,Headphones,4,14098,UPI,Cancelled,Chennai,Maharashtra,South,56392
+10449,2024-04-02,2024-01-10,Anjali Deshmukh,Home Appliances,Headphones,1,65664,Credit Card,In Transit,Chennai,Karnataka,North,65664
+10450,2024-03-16,2024-01-09,Suresh Iyer,Home Appliances,Laptop,1,17858,Debit Card,Delivered,Hyderabad,Telangana,East,17858
+10451,2024-06-02,2024-01-07,Priya Nair,Electronics,Laptop,2,61384,Debit Card,Cancelled,Mumbai,Karnataka,South,122768
+10452,2024-05-23,2024-01-05,Priya Nair,Beauty,Mobile,3,44537,Net Banking,In Transit,Hyderabad,Telangana,East,133611
+10453,2024-06-27,2024-01-11,Priya Nair,Clothing,Headphones,2,65797,Credit Card,Cancelled,Pune,Telangana,North,131594
+10454,2024-03-26,2024-01-10,Rohit Verma,Beauty,Laptop,5,478,Debit Card,Delivered,Hyderabad,Telangana,North,2390
+10455,2024-01-29,2024-01-07,Neha Patil,Beauty,Shirt,1,17418,Net Banking,Cancelled,Mumbai,Delhi,East,17418
+10456,2024-03-09,2024-01-12,Anjali Deshmukh,Electronics,Laptop,4,22916,Credit Card,Returned,Mumbai,Tamil Nadu,East,91664
+10457,2024-02-16,2024-01-06,Rahul Mehta,Electronics,Novel,1,1098,Debit Card,In Transit,Chennai,Karnataka,East,1098
+10458,2024-04-03,2024-01-08,Rohit Verma,Electronics,Novel,4,7901,UPI,Cancelled,Pune,Tamil Nadu,West,31604
+10459,2024-05-23,2024-01-09,Neha Patil,Books,Laptop,5,25663,Cash on Delivery,Delivered,Delhi,Maharashtra,West,128315
+10460,2024-06-24,2024-01-05,Suresh Iyer,Beauty,Headphones,5,3095,Credit Card,In Transit,Hyderabad,Karnataka,West,15475
+10461,2024-03-25,2024-01-09,Sneha Kulkarni,Home Appliances,Face Cream,1,45564,Net Banking,Returned,Chennai,Tamil Nadu,West,45564
+10462,2024-02-08,2024-01-11,Anjali Deshmukh,Clothing,Face Cream,4,73133,Credit Card,In Transit,Hyderabad,Tamil Nadu,South,292532
+10463,2024-04-09,2024-01-06,Priya Nair,Books,Headphones,5,3384,Net Banking,Returned,Hyderabad,Maharashtra,North,16920
+10464,2024-02-02,2024-01-09,Amit Sharma,Home Appliances,Mixer,2,76946,Credit Card,In Transit,Delhi,Telangana,East,153892
+10465,2024-04-10,2024-01-05,Anjali Deshmukh,Beauty,Face Cream,2,1031,Net Banking,Cancelled,Pune,Karnataka,North,2062
+10466,2024-01-23,2024-01-06,Karan Malhotra,Electronics,Novel,4,1429,Debit Card,Cancelled,Mumbai,Karnataka,East,5716
+10467,2024-01-10,2024-01-09,Neha Patil,Beauty,Shirt,1,28322,UPI,Delivered,Bengaluru,Maharashtra,North,28322
+10468,2024-03-09,2024-01-08,Pooja Singh,Clothing,Headphones,5,1905,Debit Card,Returned,Hyderabad,Telangana,South,9525
+10469,2024-04-09,2024-01-10,Suresh Iyer,Books,Mobile,1,77806,UPI,Delivered,Bengaluru,Karnataka,West,77806
+10470,2024-02-03,2024-01-06,Sneha Kulkarni,Books,Novel,2,44430,Debit Card,Cancelled,Pune,Karnataka,North,88860
+10471,2024-06-28,2024-01-10,Suresh Iyer,Clothing,Shirt,5,29565,Debit Card,Returned,Bengaluru,Karnataka,East,147825
+10472,2024-05-17,2024-01-12,Anjali Deshmukh,Home Appliances,Shirt,1,32630,Credit Card,Delivered,Hyderabad,Telangana,North,32630
+10473,2024-05-26,2024-01-06,Pooja Singh,Home Appliances,Headphones,3,68769,Cash on Delivery,Delivered,Delhi,Maharashtra,South,206307
+10474,2024-04-05,2024-01-08,Karan Malhotra,Books,Shirt,4,15487,Net Banking,Delivered,Bengaluru,Karnataka,South,61948
+10475,2024-01-01,2024-01-10,Rahul Mehta,Books,Headphones,4,26091,Net Banking,Delivered,Pune,Tamil Nadu,North,104364
+10476,2024-03-09,2024-01-07,Amit Sharma,Electronics,Face Cream,3,70910,Net Banking,Delivered,Pune,Telangana,West,212730
+10477,2024-01-04,2024-01-05,Pooja Singh,Home Appliances,Laptop,2,40167,UPI,Returned,Delhi,Delhi,East,80334
+10478,2024-01-16,2024-01-07,Neha Patil,Clothing,Novel,5,1193,Net Banking,Delivered,Bengaluru,Maharashtra,South,5965
+10479,2024-01-24,2024-01-09,Priya Nair,Home Appliances,Mixer,4,20073,Net Banking,Returned,Bengaluru,Tamil Nadu,South,80292
+10480,2024-03-20,2024-01-08,Karan Malhotra,Electronics,Laptop,3,4539,Credit Card,Delivered,Mumbai,Karnataka,North,13617
+10481,2024-01-02,2024-01-07,Amit Sharma,Books,Novel,3,21163,Debit Card,Cancelled,Chennai,Delhi,South,63489
+10482,2024-05-07,2024-01-06,Sneha Kulkarni,Books,Headphones,2,51715,Net Banking,Cancelled,Pune,Maharashtra,South,103430
+10483,2024-06-08,2024-01-09,Priya Nair,Electronics,Novel,2,69268,Cash on Delivery,Delivered,Mumbai,Telangana,East,138536
+10484,2024-03-24,2024-01-09,Anjali Deshmukh,Clothing,Face Cream,1,60730,Net Banking,In Transit,Pune,Delhi,West,60730
+10485,2024-05-31,2024-01-07,Pooja Singh,Books,Headphones,4,1815,UPI,Cancelled,Mumbai,Delhi,East,7260
+10486,2024-05-19,2024-01-12,Amit Sharma,Beauty,Laptop,1,14905,UPI,Returned,Chennai,Tamil Nadu,West,14905
+10487,2024-06-26,2024-01-07,Rohit Verma,Books,Mobile,3,56540,UPI,Delivered,Mumbai,Maharashtra,East,169620
+10488,2024-06-11,2024-01-12,Rahul Mehta,Beauty,Mobile,5,5886,Net Banking,Returned,Pune,Tamil Nadu,North,29430
+10489,2024-05-03,2024-01-08,Rahul Mehta,Electronics,Novel,5,31486,Credit Card,In Transit,Bengaluru,Tamil Nadu,South,157430
+10490,2024-02-02,2024-01-05,Karan Malhotra,Electronics,Mobile,2,27228,Cash on Delivery,Delivered,Pune,Karnataka,West,54456
+10491,2024-06-09,2024-01-07,Sneha Kulkarni,Books,Headphones,5,21011,Net Banking,Cancelled,Hyderabad,Telangana,North,105055
+10492,2024-06-27,2024-01-11,Karan Malhotra,Home Appliances,Shirt,5,55262,Credit Card,Returned,Delhi,Delhi,South,276310
+10493,2024-06-19,2024-01-12,Rohit Verma,Beauty,Headphones,5,20339,Credit Card,Cancelled,Delhi,Maharashtra,South,101695
+10494,2024-04-10,2024-01-07,Neha Patil,Clothing,Shirt,3,36861,Net Banking,Cancelled,Hyderabad,Telangana,South,110583
+10495,2024-01-12,2024-01-10,Sneha Kulkarni,Books,Laptop,5,75783,Net Banking,Delivered,Delhi,Telangana,East,378915
+10496,2024-03-07,2024-01-06,Suresh Iyer,Clothing,Mixer,5,1877,Credit Card,Returned,Delhi,Maharashtra,North,9385
+10497,2024-03-05,2024-01-11,Neha Patil,Books,Shirt,5,28650,Credit Card,In Transit,Chennai,Telangana,North,143250
+10498,2024-06-09,2024-01-11,Sneha Kulkarni,Home Appliances,Mobile,1,34098,Credit Card,Cancelled,Bengaluru,Karnataka,South,34098
+10499,2024-06-16,2024-01-12,Sneha Kulkarni,Home Appliances,Headphones,3,11085,Net Banking,Delivered,Bengaluru,Telangana,West,33255
+10500,2024-03-14,2024-01-10,Rohit Verma,Home Appliances,Laptop,2,72527,Credit Card,Delivered,Pune,Karnataka,North,145054
+10501,2024-02-12,2024-01-10,Anjali Deshmukh,Home Appliances,Mobile,1,62257,UPI,In Transit,Hyderabad,Delhi,East,62257
+10502,2024-02-13,2024-01-09,Rohit Verma,Electronics,Laptop,4,65731,Net Banking,Delivered,Mumbai,Delhi,West,262924
+10503,2024-01-29,2024-01-12,Sneha Kulkarni,Electronics,Mixer,3,17597,UPI,Cancelled,Pune,Tamil Nadu,West,52791
+10504,2024-05-20,2024-01-05,Amit Sharma,Beauty,Face Cream,3,72194,Debit Card,Delivered,Pune,Karnataka,West,216582
+10505,2024-01-12,2024-01-06,Neha Patil,Clothing,Headphones,4,64072,Net Banking,Returned,Pune,Delhi,West,256288
+10506,2024-04-04,2024-01-08,Rohit Verma,Books,Novel,4,19881,Debit Card,Returned,Pune,Telangana,North,79524
+10507,2024-02-15,2024-01-11,Anjali Deshmukh,Books,Headphones,4,55492,Credit Card,Cancelled,Bengaluru,Maharashtra,South,221968
+10508,2024-05-09,2024-01-08,Pooja Singh,Electronics,Mixer,2,1762,Credit Card,Returned,Mumbai,Maharashtra,West,3524
+10509,2024-02-04,2024-01-07,Karan Malhotra,Books,Headphones,5,64473,Cash on Delivery,In Transit,Pune,Karnataka,East,322365
+10510,2024-03-21,2024-01-07,Sneha Kulkarni,Electronics,Novel,3,15811,Credit Card,Delivered,Bengaluru,Tamil Nadu,East,47433
+10511,2024-03-30,2024-01-08,Suresh Iyer,Beauty,Shirt,5,76406,Debit Card,Cancelled,Pune,Telangana,South,382030
+10512,2024-01-08,2024-01-07,Pooja Singh,Clothing,Laptop,5,48965,Credit Card,In Transit,Delhi,Karnataka,North,244825
+10513,2024-04-02,2024-01-05,Rahul Mehta,Beauty,Novel,4,44714,Net Banking,Delivered,Pune,Maharashtra,South,178856
+10514,2024-06-02,2024-01-10,Priya Nair,Home Appliances,Mobile,2,72873,Credit Card,In Transit,Hyderabad,Karnataka,West,145746
+10515,2024-03-30,2024-01-07,Anjali Deshmukh,Home Appliances,Mixer,1,13686,Cash on Delivery,Cancelled,Hyderabad,Telangana,North,13686
+10516,2024-06-10,2024-01-09,Suresh Iyer,Home Appliances,Shirt,2,54760,Credit Card,Cancelled,Pune,Delhi,North,109520
+10517,2024-04-24,2024-01-07,Priya Nair,Beauty,Mobile,5,6521,Debit Card,In Transit,Chennai,Telangana,West,32605
+10518,2024-04-14,2024-01-06,Anjali Deshmukh,Books,Mobile,2,23774,Debit Card,Delivered,Delhi,Delhi,East,47548
+10519,2024-05-14,2024-01-05,Amit Sharma,Clothing,Mixer,4,21345,Credit Card,Returned,Mumbai,Delhi,West,85380
+10520,2024-02-27,2024-01-06,Karan Malhotra,Home Appliances,Shirt,1,5222,Debit Card,Returned,Pune,Delhi,South,5222
+10521,2024-04-23,2024-01-06,Pooja Singh,Home Appliances,Face Cream,4,23006,Debit Card,In Transit,Mumbai,Karnataka,West,92024
+10522,2024-03-15,2024-01-09,Neha Patil,Home Appliances,Mobile,1,43071,Cash on Delivery,Cancelled,Delhi,Maharashtra,East,43071
+10523,2024-06-05,2024-01-05,Anjali Deshmukh,Clothing,Mobile,5,52635,Net Banking,Delivered,Pune,Karnataka,West,263175
+10524,2024-04-29,2024-01-05,Neha Patil,Home Appliances,Shirt,1,53249,Cash on Delivery,Delivered,Chennai,Maharashtra,South,53249
+10525,2024-06-12,2024-01-12,Karan Malhotra,Clothing,Headphones,1,71014,UPI,Cancelled,Bengaluru,Telangana,South,71014
+10526,2024-01-21,2024-01-05,Sneha Kulkarni,Home Appliances,Mobile,1,15540,Cash on Delivery,Returned,Chennai,Tamil Nadu,East,15540
+10527,2024-06-12,2024-01-05,Rahul Mehta,Beauty,Laptop,2,3016,Credit Card,Delivered,Chennai,Telangana,South,6032
+10528,2024-05-17,2024-01-05,Pooja Singh,Beauty,Shirt,2,16874,Net Banking,In Transit,Bengaluru,Karnataka,South,33748
+10529,2024-04-10,2024-01-09,Karan Malhotra,Clothing,Mobile,5,74017,Credit Card,Returned,Bengaluru,Karnataka,West,370085
+10530,2024-05-31,2024-01-07,Karan Malhotra,Beauty,Mixer,1,44366,UPI,In Transit,Hyderabad,Maharashtra,North,44366
+10531,2024-06-25,2024-01-12,Amit Sharma,Clothing,Novel,3,62126,Net Banking,Returned,Bengaluru,Karnataka,South,186378
+10532,2024-04-08,2024-01-06,Priya Nair,Beauty,Laptop,5,20513,Debit Card,Cancelled,Pune,Delhi,South,102565
+10533,2024-02-05,2024-01-05,Rahul Mehta,Beauty,Novel,1,72216,Cash on Delivery,In Transit,Mumbai,Karnataka,East,72216
+10534,2024-04-05,2024-01-11,Pooja Singh,Clothing,Novel,1,66451,Credit Card,In Transit,Hyderabad,Maharashtra,East,66451
+10535,2024-05-31,2024-01-07,Sneha Kulkarni,Books,Mobile,2,51206,UPI,Cancelled,Hyderabad,Maharashtra,West,102412
+10536,2024-05-30,2024-01-07,Sneha Kulkarni,Beauty,Laptop,5,763,Debit Card,In Transit,Mumbai,Delhi,West,3815
+10537,2024-02-06,2024-01-06,Rohit Verma,Home Appliances,Laptop,1,32273,Cash on Delivery,Returned,Hyderabad,Maharashtra,South,32273
+10538,2024-01-12,2024-01-09,Karan Malhotra,Books,Headphones,1,74994,Debit Card,Delivered,Bengaluru,Tamil Nadu,North,74994
+10539,2024-04-22,2024-01-08,Anjali Deshmukh,Clothing,Novel,5,20951,Cash on Delivery,Delivered,Chennai,Telangana,North,104755
+10540,2024-01-13,2024-01-08,Amit Sharma,Books,Laptop,3,68994,Net Banking,Cancelled,Delhi,Karnataka,West,206982
+10541,2024-01-23,2024-01-07,Rahul Mehta,Electronics,Headphones,5,20308,Debit Card,Returned,Bengaluru,Tamil Nadu,East,101540
+10542,2024-04-08,2024-01-10,Sneha Kulkarni,Electronics,Shirt,5,70774,Debit Card,In Transit,Chennai,Karnataka,South,353870
+10543,2024-04-14,2024-01-10,Pooja Singh,Beauty,Headphones,3,38485,Debit Card,In Transit,Chennai,Tamil Nadu,South,115455
+10544,2024-01-30,2024-01-06,Rohit Verma,Beauty,Mixer,5,74717,Net Banking,Delivered,Hyderabad,Karnataka,North,373585
+10545,2024-01-17,2024-01-08,Pooja Singh,Home Appliances,Face Cream,1,71439,UPI,In Transit,Pune,Delhi,West,71439
+10546,2024-04-22,2024-01-07,Amit Sharma,Books,Mobile,5,35280,Cash on Delivery,Delivered,Pune,Maharashtra,North,176400
+10547,2024-03-02,2024-01-09,Anjali Deshmukh,Electronics,Shirt,3,22804,Debit Card,Cancelled,Hyderabad,Maharashtra,North,68412
+10548,2024-03-24,2024-01-08,Rohit Verma,Beauty,Face Cream,4,55270,Net Banking,In Transit,Hyderabad,Delhi,West,221080
+10549,2024-04-21,2024-01-07,Rohit Verma,Books,Face Cream,5,17066,UPI,Returned,Mumbai,Tamil Nadu,East,85330
+10550,2024-03-26,2024-01-07,Priya Nair,Beauty,Shirt,2,11995,Cash on Delivery,In Transit,Mumbai,Telangana,South,23990
+10551,2024-05-20,2024-01-05,Rahul Mehta,Beauty,Mixer,1,18096,Net Banking,Delivered,Delhi,Tamil Nadu,East,18096
+10552,2024-01-19,2024-01-09,Rohit Verma,Electronics,Headphones,1,42843,Cash on Delivery,Cancelled,Delhi,Maharashtra,West,42843
+10553,2024-06-25,2024-01-05,Priya Nair,Electronics,Mobile,2,14859,Debit Card,Delivered,Delhi,Telangana,West,29718
+10554,2024-04-09,2024-01-06,Priya Nair,Beauty,Headphones,2,33439,UPI,In Transit,Delhi,Karnataka,South,66878
+10555,2024-05-19,2024-01-05,Amit Sharma,Clothing,Laptop,5,9102,Net Banking,Delivered,Chennai,Telangana,East,45510
+10556,2024-05-26,2024-01-11,Neha Patil,Beauty,Headphones,2,74143,UPI,Delivered,Chennai,Tamil Nadu,South,148286
+10557,2024-03-16,2024-01-05,Pooja Singh,Beauty,Shirt,4,40505,Debit Card,Cancelled,Mumbai,Delhi,North,162020
+10558,2024-01-09,2024-01-11,Anjali Deshmukh,Home Appliances,Mobile,3,34459,UPI,Returned,Pune,Karnataka,North,103377
+10559,2024-01-28,2024-01-08,Suresh Iyer,Home Appliances,Headphones,2,11816,UPI,In Transit,Hyderabad,Tamil Nadu,North,23632
+10560,2024-05-07,2024-01-10,Pooja Singh,Home Appliances,Mobile,2,50792,Credit Card,Cancelled,Pune,Karnataka,East,101584
+10561,2024-02-21,2024-01-12,Rohit Verma,Clothing,Mobile,4,29386,UPI,Returned,Bengaluru,Telangana,North,117544
+10562,2024-03-23,2024-01-12,Anjali Deshmukh,Clothing,Laptop,1,30780,Cash on Delivery,Delivered,Chennai,Maharashtra,South,30780
+10563,2024-04-20,2024-01-07,Sneha Kulkarni,Beauty,Laptop,1,52391,Net Banking,Returned,Delhi,Tamil Nadu,East,52391
+10564,2024-05-23,2024-01-12,Neha Patil,Home Appliances,Shirt,5,48066,Credit Card,Delivered,Delhi,Delhi,South,240330
+10565,2024-04-26,2024-01-11,Sneha Kulkarni,Clothing,Mixer,4,39037,Net Banking,Delivered,Bengaluru,Telangana,West,156148
+10566,2024-03-09,2024-01-09,Sneha Kulkarni,Electronics,Face Cream,3,9565,Net Banking,Cancelled,Pune,Tamil Nadu,East,28695
+10567,2024-04-08,2024-01-05,Rahul Mehta,Beauty,Mobile,3,71290,Debit Card,Delivered,Delhi,Delhi,South,213870
+10568,2024-05-19,2024-01-11,Pooja Singh,Books,Mixer,4,15686,Debit Card,Cancelled,Pune,Tamil Nadu,South,62744
+10569,2024-01-25,2024-01-09,Suresh Iyer,Beauty,Face Cream,3,37725,Credit Card,Returned,Hyderabad,Telangana,East,113175
+10570,2024-06-28,2024-01-10,Amit Sharma,Books,Face Cream,1,43554,Debit Card,Returned,Bengaluru,Tamil Nadu,West,43554
+10571,2024-05-02,2024-01-12,Suresh Iyer,Home Appliances,Shirt,3,53934,Debit Card,Delivered,Pune,Karnataka,East,161802
+10572,2024-02-22,2024-01-10,Sneha Kulkarni,Books,Face Cream,3,47962,Debit Card,Cancelled,Hyderabad,Telangana,North,143886
+10573,2024-05-30,2024-01-12,Rohit Verma,Home Appliances,Face Cream,4,75752,Net Banking,Delivered,Pune,Tamil Nadu,North,303008
+10574,2024-05-23,2024-01-05,Neha Patil,Electronics,Mobile,4,10443,Credit Card,Cancelled,Pune,Maharashtra,West,41772
+10575,2024-02-26,2024-01-06,Karan Malhotra,Books,Mobile,3,15881,Net Banking,Cancelled,Delhi,Tamil Nadu,South,47643
+10576,2024-02-08,2024-01-05,Suresh Iyer,Beauty,Novel,2,67743,Cash on Delivery,Cancelled,Mumbai,Karnataka,South,135486
+10577,2024-04-18,2024-01-08,Sneha Kulkarni,Home Appliances,Mixer,4,29724,Net Banking,Returned,Chennai,Delhi,South,118896
+10578,2024-02-11,2024-01-11,Neha Patil,Beauty,Headphones,5,42284,Cash on Delivery,Cancelled,Pune,Delhi,East,211420
+10579,2024-06-15,2024-01-07,Anjali Deshmukh,Clothing,Laptop,5,41805,UPI,Returned,Pune,Delhi,East,209025
+10580,2024-05-21,2024-01-06,Pooja Singh,Home Appliances,Headphones,1,62999,UPI,Cancelled,Pune,Maharashtra,West,62999
+10581,2024-05-01,2024-01-05,Priya Nair,Books,Mixer,3,27257,Cash on Delivery,Returned,Mumbai,Karnataka,North,81771
+10582,2024-05-12,2024-01-09,Rahul Mehta,Home Appliances,Laptop,2,25764,Cash on Delivery,In Transit,Hyderabad,Telangana,South,51528
+10583,2024-06-11,2024-01-06,Neha Patil,Beauty,Headphones,1,23949,Net Banking,Returned,Bengaluru,Delhi,North,23949
+10584,2024-03-15,2024-01-11,Rohit Verma,Electronics,Novel,3,42365,Cash on Delivery,Returned,Delhi,Karnataka,East,127095
+10585,2024-05-25,2024-01-12,Rohit Verma,Home Appliances,Laptop,4,35058,Credit Card,Delivered,Mumbai,Tamil Nadu,East,140232
+10586,2024-03-16,2024-01-06,Neha Patil,Books,Mobile,5,5896,UPI,Cancelled,Hyderabad,Maharashtra,East,29480
+10587,2024-01-09,2024-01-12,Rohit Verma,Clothing,Headphones,2,16674,UPI,In Transit,Pune,Karnataka,North,33348
+10588,2024-03-14,2024-01-11,Pooja Singh,Electronics,Laptop,5,4075,Cash on Delivery,Delivered,Hyderabad,Karnataka,West,20375
+10589,2024-05-24,2024-01-05,Rohit Verma,Clothing,Novel,4,27688,Debit Card,Cancelled,Mumbai,Telangana,West,110752
+10590,2024-01-07,2024-01-11,Suresh Iyer,Home Appliances,Face Cream,3,21329,Debit Card,In Transit,Mumbai,Karnataka,East,63987
+10591,2024-06-22,2024-01-06,Priya Nair,Beauty,Laptop,4,53939,Cash on Delivery,In Transit,Mumbai,Telangana,South,215756
+10592,2024-05-20,2024-01-09,Rohit Verma,Beauty,Laptop,4,14945,Credit Card,In Transit,Bengaluru,Maharashtra,North,59780
+10593,2024-06-16,2024-01-10,Priya Nair,Books,Novel,5,31405,Debit Card,Cancelled,Chennai,Maharashtra,East,157025
+10594,2024-06-18,2024-01-06,Sneha Kulkarni,Beauty,Face Cream,2,13968,Cash on Delivery,In Transit,Delhi,Tamil Nadu,North,27936
+10595,2024-05-16,2024-01-11,Amit Sharma,Electronics,Headphones,4,16260,Credit Card,In Transit,Bengaluru,Telangana,North,65040
+10596,2024-06-26,2024-01-10,Pooja Singh,Beauty,Shirt,5,11657,Credit Card,Delivered,Bengaluru,Telangana,West,58285
+10597,2024-01-27,2024-01-11,Amit Sharma,Books,Headphones,2,64904,Net Banking,Returned,Chennai,Delhi,East,129808
+10598,2024-05-01,2024-01-09,Sneha Kulkarni,Home Appliances,Face Cream,3,52096,Credit Card,Cancelled,Bengaluru,Delhi,West,156288
+10599,2024-01-05,2024-01-11,Pooja Singh,Home Appliances,Mixer,3,16104,Debit Card,Returned,Mumbai,Tamil Nadu,East,48312
+10600,2024-01-29,2024-01-05,Neha Patil,Beauty,Novel,1,14926,Debit Card,Delivered,Mumbai,Maharashtra,North,14926
+10601,2024-06-13,2024-01-07,Neha Patil,Clothing,Headphones,5,28432,Cash on Delivery,Returned,Hyderabad,Delhi,West,142160
+10602,2024-06-14,2024-01-12,Priya Nair,Home Appliances,Laptop,2,8251,Cash on Delivery,In Transit,Pune,Karnataka,North,16502
+10603,2024-03-23,2024-01-12,Sneha Kulkarni,Beauty,Novel,4,6749,Credit Card,In Transit,Bengaluru,Maharashtra,East,26996
+10604,2024-05-15,2024-01-06,Priya Nair,Books,Mobile,3,19365,UPI,Cancelled,Pune,Karnataka,South,58095
+10605,2024-04-18,2024-01-07,Rahul Mehta,Beauty,Face Cream,2,9430,Net Banking,Cancelled,Delhi,Telangana,West,18860
+10606,2024-03-05,2024-01-11,Rohit Verma,Home Appliances,Headphones,5,62587,UPI,Cancelled,Mumbai,Maharashtra,West,312935
+10607,2024-03-26,2024-01-09,Karan Malhotra,Books,Novel,1,52002,Credit Card,Delivered,Hyderabad,Tamil Nadu,North,52002
+10608,2024-05-24,2024-01-06,Rahul Mehta,Beauty,Headphones,3,37293,Credit Card,Cancelled,Delhi,Telangana,North,111879
+10609,2024-03-11,2024-01-11,Rohit Verma,Electronics,Novel,2,32175,UPI,Delivered,Hyderabad,Telangana,South,64350
+10610,2024-02-14,2024-01-10,Pooja Singh,Books,Laptop,2,6354,Net Banking,In Transit,Chennai,Karnataka,West,12708
+10611,2024-05-11,2024-01-08,Priya Nair,Electronics,Mobile,2,48817,UPI,Returned,Mumbai,Telangana,East,97634
+10612,2024-02-05,2024-01-11,Pooja Singh,Clothing,Mobile,5,76668,Cash on Delivery,In Transit,Delhi,Delhi,East,383340
+10613,2024-03-10,2024-01-07,Pooja Singh,Books,Mixer,5,29970,Debit Card,In Transit,Chennai,Maharashtra,West,149850
+10614,2024-06-07,2024-01-06,Rohit Verma,Electronics,Novel,5,49412,Cash on Delivery,In Transit,Delhi,Delhi,West,247060
+10615,2024-01-19,2024-01-07,Sneha Kulkarni,Home Appliances,Headphones,4,28607,Debit Card,Cancelled,Hyderabad,Karnataka,West,114428
+10616,2024-04-17,2024-01-06,Rohit Verma,Home Appliances,Mobile,2,67387,Credit Card,Cancelled,Chennai,Karnataka,South,134774
+10617,2024-06-15,2024-01-11,Anjali Deshmukh,Clothing,Face Cream,3,48222,Net Banking,Cancelled,Chennai,Maharashtra,East,144666
+10618,2024-03-31,2024-01-05,Neha Patil,Books,Mobile,5,63380,UPI,Returned,Mumbai,Telangana,East,316900
+10619,2024-03-30,2024-01-10,Neha Patil,Books,Shirt,5,79635,Net Banking,Cancelled,Pune,Tamil Nadu,North,398175
+10620,2024-01-19,2024-01-11,Rahul Mehta,Books,Shirt,2,26612,UPI,Delivered,Hyderabad,Karnataka,North,53224
+10621,2024-02-08,2024-01-12,Neha Patil,Clothing,Mobile,5,67285,Cash on Delivery,In Transit,Hyderabad,Maharashtra,West,336425
+10622,2024-05-05,2024-01-07,Rohit Verma,Books,Novel,4,57908,Cash on Delivery,Returned,Chennai,Tamil Nadu,North,231632
+10623,2024-06-21,2024-01-08,Suresh Iyer,Home Appliances,Mixer,4,40577,UPI,Returned,Chennai,Telangana,South,162308
+10624,2024-05-20,2024-01-08,Priya Nair,Electronics,Mobile,5,31851,Net Banking,Returned,Mumbai,Karnataka,East,159255
+10625,2024-05-05,2024-01-09,Rohit Verma,Home Appliances,Laptop,2,56897,UPI,Returned,Pune,Maharashtra,East,113794
+10626,2024-02-27,2024-01-06,Rohit Verma,Home Appliances,Headphones,2,45512,Credit Card,Returned,Hyderabad,Maharashtra,North,91024
+10627,2024-05-27,2024-01-07,Karan Malhotra,Electronics,Mixer,2,9937,Cash on Delivery,Delivered,Bengaluru,Maharashtra,West,19874
+10628,2024-03-01,2024-01-09,Priya Nair,Home Appliances,Laptop,1,43558,Credit Card,In Transit,Bengaluru,Karnataka,North,43558
+10629,2024-05-06,2024-01-07,Anjali Deshmukh,Clothing,Mixer,5,35993,Cash on Delivery,Returned,Pune,Tamil Nadu,West,179965
+10630,2024-04-14,2024-01-12,Neha Patil,Electronics,Laptop,2,10124,Cash on Delivery,In Transit,Delhi,Maharashtra,South,20248
+10631,2024-06-15,2024-01-06,Priya Nair,Home Appliances,Headphones,4,27250,Debit Card,Cancelled,Mumbai,Telangana,East,109000
+10632,2024-01-01,2024-01-11,Neha Patil,Beauty,Headphones,3,23788,Credit Card,Returned,Pune,Maharashtra,South,71364
+10633,2024-05-10,2024-01-11,Rahul Mehta,Home Appliances,Shirt,3,515,Credit Card,Returned,Bengaluru,Tamil Nadu,East,1545
+10634,2024-04-01,2024-01-08,Priya Nair,Clothing,Novel,2,11823,Debit Card,In Transit,Chennai,Karnataka,South,23646
+10635,2024-04-22,2024-01-11,Neha Patil,Books,Laptop,3,76200,Net Banking,Returned,Bengaluru,Maharashtra,North,228600
+10636,2024-06-01,2024-01-11,Anjali Deshmukh,Home Appliances,Shirt,3,68989,Credit Card,Returned,Chennai,Maharashtra,South,206967
+10637,2024-02-25,2024-01-12,Amit Sharma,Books,Laptop,1,24134,UPI,Returned,Mumbai,Telangana,South,24134
+10638,2024-06-09,2024-01-05,Pooja Singh,Beauty,Shirt,4,34774,Debit Card,Delivered,Chennai,Telangana,North,139096
+10639,2024-06-14,2024-01-08,Pooja Singh,Home Appliances,Headphones,4,43366,Credit Card,Delivered,Pune,Maharashtra,East,173464
+10640,2024-04-26,2024-01-09,Anjali Deshmukh,Electronics,Mixer,1,10700,Net Banking,Returned,Chennai,Maharashtra,East,10700
+10641,2024-05-13,2024-01-10,Karan Malhotra,Books,Face Cream,1,10645,Credit Card,Delivered,Delhi,Telangana,North,10645
+10642,2024-02-27,2024-01-05,Amit Sharma,Beauty,Shirt,3,34196,Cash on Delivery,Cancelled,Pune,Tamil Nadu,South,102588
+10643,2024-02-13,2024-01-09,Rahul Mehta,Electronics,Laptop,5,29199,UPI,Returned,Mumbai,Delhi,South,145995
+10644,2024-06-21,2024-01-06,Anjali Deshmukh,Electronics,Laptop,3,28529,Debit Card,Cancelled,Pune,Delhi,South,85587
+10645,2024-06-08,2024-01-05,Pooja Singh,Electronics,Face Cream,1,5883,Cash on Delivery,In Transit,Delhi,Maharashtra,West,5883
+10646,2024-06-21,2024-01-12,Pooja Singh,Electronics,Novel,4,5197,Net Banking,Cancelled,Mumbai,Telangana,East,20788
+10647,2024-03-01,2024-01-09,Pooja Singh,Home Appliances,Headphones,3,71837,Cash on Delivery,In Transit,Bengaluru,Karnataka,South,215511
+10648,2024-02-16,2024-01-06,Sneha Kulkarni,Home Appliances,Laptop,5,4867,Cash on Delivery,Returned,Delhi,Karnataka,East,24335
+10649,2024-05-28,2024-01-08,Anjali Deshmukh,Home Appliances,Mobile,3,75107,Net Banking,In Transit,Mumbai,Delhi,South,225321
+10650,2024-03-20,2024-01-10,Rohit Verma,Beauty,Mixer,2,77539,Cash on Delivery,In Transit,Chennai,Tamil Nadu,North,155078
+10651,2024-04-27,2024-01-06,Rahul Mehta,Beauty,Shirt,3,13629,Debit Card,Cancelled,Pune,Delhi,North,40887
+10652,2024-06-12,2024-01-11,Pooja Singh,Beauty,Novel,1,72092,Credit Card,Cancelled,Mumbai,Maharashtra,East,72092
+10653,2024-05-26,2024-01-07,Neha Patil,Clothing,Face Cream,4,528,Cash on Delivery,Cancelled,Pune,Tamil Nadu,East,2112
+10654,2024-01-20,2024-01-06,Anjali Deshmukh,Beauty,Mixer,4,37352,Debit Card,Returned,Chennai,Karnataka,North,149408
+10655,2024-05-25,2024-01-06,Sneha Kulkarni,Home Appliances,Headphones,1,58069,Credit Card,Returned,Mumbai,Telangana,West,58069
+10656,2024-02-16,2024-01-10,Anjali Deshmukh,Home Appliances,Novel,2,46332,Credit Card,Cancelled,Bengaluru,Telangana,North,92664
+10657,2024-02-18,2024-01-07,Rahul Mehta,Clothing,Shirt,1,33986,Cash on Delivery,Returned,Delhi,Maharashtra,South,33986
+10658,2024-01-14,2024-01-11,Sneha Kulkarni,Clothing,Shirt,3,77281,Debit Card,Returned,Mumbai,Delhi,West,231843
+10659,2024-05-22,2024-01-09,Rahul Mehta,Beauty,Face Cream,1,63561,Cash on Delivery,In Transit,Chennai,Maharashtra,North,63561
+10660,2024-06-07,2024-01-09,Anjali Deshmukh,Books,Mobile,1,3109,Net Banking,In Transit,Mumbai,Telangana,West,3109
+10661,2024-01-01,2024-01-06,Rohit Verma,Clothing,Face Cream,2,42085,Credit Card,Cancelled,Pune,Karnataka,West,84170
+10662,2024-04-26,2024-01-12,Rahul Mehta,Electronics,Headphones,3,36847,Cash on Delivery,Returned,Hyderabad,Telangana,West,110541
+10663,2024-02-23,2024-01-12,Sneha Kulkarni,Home Appliances,Novel,5,43118,Credit Card,In Transit,Mumbai,Tamil Nadu,East,215590
+10664,2024-04-27,2024-01-07,Sneha Kulkarni,Electronics,Novel,5,72227,Debit Card,Delivered,Bengaluru,Telangana,North,361135
+10665,2024-01-03,2024-01-07,Rahul Mehta,Home Appliances,Laptop,4,65981,UPI,Returned,Mumbai,Telangana,East,263924
+10666,2024-05-23,2024-01-11,Suresh Iyer,Home Appliances,Mobile,1,79765,Cash on Delivery,Delivered,Delhi,Tamil Nadu,East,79765
+10667,2024-01-12,2024-01-10,Anjali Deshmukh,Clothing,Mobile,4,37633,Cash on Delivery,Cancelled,Mumbai,Delhi,South,150532
+10668,2024-03-14,2024-01-08,Suresh Iyer,Clothing,Novel,2,16876,Credit Card,Returned,Hyderabad,Telangana,South,33752
+10669,2024-01-16,2024-01-09,Karan Malhotra,Electronics,Novel,5,39705,Debit Card,Cancelled,Pune,Maharashtra,West,198525
+10670,2024-04-11,2024-01-10,Anjali Deshmukh,Home Appliances,Mixer,1,74079,Net Banking,Cancelled,Mumbai,Telangana,West,74079
+10671,2024-05-31,2024-01-05,Rahul Mehta,Electronics,Mixer,2,31901,Debit Card,Cancelled,Bengaluru,Maharashtra,South,63802
+10672,2024-06-04,2024-01-09,Amit Sharma,Books,Mixer,2,68246,Cash on Delivery,Cancelled,Chennai,Tamil Nadu,South,136492
+10673,2024-04-26,2024-01-10,Rahul Mehta,Electronics,Mobile,1,67656,Net Banking,Cancelled,Mumbai,Telangana,North,67656
+10674,2024-01-08,2024-01-09,Suresh Iyer,Beauty,Laptop,2,52416,Debit Card,Returned,Mumbai,Tamil Nadu,West,104832
+10675,2024-05-01,2024-01-08,Rohit Verma,Electronics,Shirt,1,63194,UPI,Delivered,Delhi,Tamil Nadu,West,63194
+10676,2024-04-01,2024-01-05,Rahul Mehta,Beauty,Mixer,1,34935,Credit Card,Returned,Bengaluru,Delhi,South,34935
+10677,2024-06-12,2024-01-12,Rahul Mehta,Beauty,Laptop,3,7765,Debit Card,Returned,Hyderabad,Telangana,North,23295
+10678,2024-03-30,2024-01-12,Rohit Verma,Beauty,Face Cream,4,57054,Debit Card,Returned,Chennai,Maharashtra,South,228216
+10679,2024-05-15,2024-01-08,Rahul Mehta,Books,Headphones,2,39171,UPI,In Transit,Pune,Maharashtra,South,78342
+10680,2024-02-29,2024-01-11,Pooja Singh,Electronics,Mixer,2,63174,Cash on Delivery,In Transit,Mumbai,Telangana,East,126348
+10681,2024-06-26,2024-01-05,Amit Sharma,Electronics,Face Cream,3,78033,Credit Card,Returned,Hyderabad,Delhi,West,234099
+10682,2024-01-28,2024-01-06,Neha Patil,Books,Shirt,3,29811,Debit Card,Delivered,Chennai,Delhi,North,89433
+10683,2024-04-10,2024-01-10,Amit Sharma,Home Appliances,Headphones,3,49121,Net Banking,Returned,Pune,Delhi,East,147363
+10684,2024-02-10,2024-01-05,Rahul Mehta,Clothing,Headphones,5,66076,Debit Card,Cancelled,Hyderabad,Maharashtra,West,330380
+10685,2024-06-03,2024-01-11,Pooja Singh,Electronics,Shirt,5,70467,Credit Card,In Transit,Bengaluru,Tamil Nadu,South,352335
+10686,2024-05-24,2024-01-11,Anjali Deshmukh,Clothing,Mixer,5,75435,Debit Card,In Transit,Bengaluru,Delhi,North,377175
+10687,2024-06-09,2024-01-08,Rahul Mehta,Books,Mobile,1,44762,UPI,Returned,Chennai,Maharashtra,West,44762
+10688,2024-06-05,2024-01-09,Suresh Iyer,Home Appliances,Shirt,2,61682,Debit Card,Returned,Pune,Maharashtra,South,123364
+10689,2024-05-20,2024-01-05,Pooja Singh,Home Appliances,Shirt,4,32874,Debit Card,Delivered,Bengaluru,Tamil Nadu,East,131496
+10690,2024-02-15,2024-01-10,Rohit Verma,Home Appliances,Shirt,1,42210,Net Banking,Delivered,Chennai,Telangana,North,42210
+10691,2024-02-04,2024-01-05,Pooja Singh,Books,Headphones,2,73831,UPI,Cancelled,Bengaluru,Telangana,West,147662
+10692,2024-05-13,2024-01-07,Rohit Verma,Beauty,Laptop,2,25486,UPI,Returned,Bengaluru,Delhi,East,50972
+10693,2024-03-22,2024-01-09,Karan Malhotra,Beauty,Face Cream,3,23113,Debit Card,Returned,Hyderabad,Delhi,South,69339
+10694,2024-04-24,2024-01-10,Neha Patil,Clothing,Mobile,3,79112,Net Banking,Returned,Hyderabad,Tamil Nadu,South,237336
+10695,2024-02-16,2024-01-12,Priya Nair,Beauty,Mixer,1,78582,Debit Card,In Transit,Bengaluru,Delhi,West,78582
+10696,2024-06-01,2024-01-10,Pooja Singh,Beauty,Mixer,3,18857,Debit Card,Cancelled,Delhi,Tamil Nadu,South,56571
+10697,2024-01-10,2024-01-06,Sneha Kulkarni,Home Appliances,Face Cream,2,28360,Credit Card,Delivered,Hyderabad,Maharashtra,North,56720
+10698,2024-02-25,2024-01-08,Suresh Iyer,Home Appliances,Laptop,3,59166,Credit Card,In Transit,Pune,Delhi,West,177498
+10699,2024-01-30,2024-01-06,Rahul Mehta,Clothing,Shirt,5,72404,Net Banking,In Transit,Chennai,Maharashtra,East,362020
+10700,2024-04-18,2024-01-10,Suresh Iyer,Electronics,Mobile,3,6380,Cash on Delivery,In Transit,Chennai,Karnataka,West,19140
+10701,2024-01-05,2024-01-09,Amit Sharma,Clothing,Mixer,2,14154,Credit Card,In Transit,Pune,Tamil Nadu,West,28308
+10702,2024-04-28,2024-01-05,Priya Nair,Clothing,Face Cream,1,67995,Cash on Delivery,Cancelled,Pune,Karnataka,East,67995
+10703,2024-02-02,2024-01-12,Amit Sharma,Books,Novel,4,27325,UPI,Returned,Pune,Delhi,South,109300
+10704,2024-04-27,2024-01-05,Karan Malhotra,Books,Face Cream,3,53282,Credit Card,Delivered,Pune,Maharashtra,East,159846
+10705,2024-03-05,2024-01-09,Priya Nair,Clothing,Mixer,2,41381,Credit Card,Delivered,Mumbai,Delhi,North,82762
+10706,2024-05-25,2024-01-10,Priya Nair,Clothing,Shirt,4,4668,Net Banking,In Transit,Chennai,Karnataka,South,18672
+10707,2024-06-25,2024-01-11,Amit Sharma,Clothing,Novel,4,27394,Cash on Delivery,In Transit,Mumbai,Delhi,West,109576
+10708,2024-01-11,2024-01-05,Rohit Verma,Beauty,Laptop,5,46340,Credit Card,Cancelled,Bengaluru,Telangana,South,231700
+10709,2024-03-25,2024-01-11,Amit Sharma,Books,Mobile,4,67066,Credit Card,In Transit,Bengaluru,Karnataka,South,268264
+10710,2024-01-26,2024-01-05,Suresh Iyer,Clothing,Laptop,2,24291,Net Banking,Delivered,Chennai,Delhi,North,48582
+10711,2024-03-03,2024-01-05,Rohit Verma,Home Appliances,Laptop,2,1601,Net Banking,Delivered,Bengaluru,Maharashtra,South,3202
+10712,2024-03-26,2024-01-12,Suresh Iyer,Home Appliances,Face Cream,3,28910,Cash on Delivery,Returned,Pune,Delhi,South,86730
+10713,2024-02-28,2024-01-08,Karan Malhotra,Beauty,Mobile,3,34978,UPI,Returned,Mumbai,Maharashtra,South,104934
+10714,2024-01-27,2024-01-08,Rahul Mehta,Beauty,Mobile,3,24766,UPI,Delivered,Pune,Telangana,West,74298
+10715,2024-06-25,2024-01-07,Anjali Deshmukh,Electronics,Mixer,4,41175,Debit Card,Delivered,Bengaluru,Delhi,South,164700
+10716,2024-06-09,2024-01-06,Rohit Verma,Electronics,Mixer,4,26381,Credit Card,Cancelled,Hyderabad,Telangana,East,105524
+10717,2024-04-07,2024-01-09,Karan Malhotra,Electronics,Mobile,5,24654,Cash on Delivery,Cancelled,Mumbai,Karnataka,South,123270
+10718,2024-04-14,2024-01-09,Sneha Kulkarni,Beauty,Novel,3,18600,Credit Card,Delivered,Pune,Maharashtra,North,55800
+10719,2024-04-08,2024-01-09,Karan Malhotra,Beauty,Headphones,1,64684,Cash on Delivery,In Transit,Chennai,Karnataka,South,64684
+10720,2024-05-08,2024-01-07,Amit Sharma,Beauty,Mixer,5,61192,Cash on Delivery,Returned,Pune,Maharashtra,South,305960
+10721,2024-05-28,2024-01-08,Amit Sharma,Home Appliances,Headphones,1,35825,Cash on Delivery,Delivered,Hyderabad,Telangana,West,35825
+10722,2024-02-24,2024-01-10,Anjali Deshmukh,Beauty,Face Cream,4,26832,Credit Card,In Transit,Bengaluru,Tamil Nadu,East,107328
+10723,2024-01-06,2024-01-11,Karan Malhotra,Home Appliances,Novel,5,6764,Net Banking,Delivered,Mumbai,Delhi,South,33820
+10724,2024-04-04,2024-01-12,Neha Patil,Electronics,Mobile,5,16862,Credit Card,Returned,Chennai,Telangana,East,84310
+10725,2024-05-12,2024-01-11,Rahul Mehta,Electronics,Novel,2,55814,Cash on Delivery,Returned,Mumbai,Maharashtra,North,111628
+10726,2024-04-11,2024-01-10,Amit Sharma,Electronics,Mixer,4,74519,Debit Card,Cancelled,Chennai,Maharashtra,West,298076
+10727,2024-01-03,2024-01-12,Anjali Deshmukh,Clothing,Laptop,4,32934,UPI,Cancelled,Mumbai,Maharashtra,East,131736
+10728,2024-01-23,2024-01-07,Rahul Mehta,Clothing,Face Cream,5,360,Cash on Delivery,Cancelled,Bengaluru,Maharashtra,West,1800
+10729,2024-02-22,2024-01-10,Karan Malhotra,Books,Mobile,4,9569,Debit Card,Cancelled,Chennai,Delhi,South,38276
+10730,2024-06-13,2024-01-09,Karan Malhotra,Books,Shirt,5,63443,Net Banking,Returned,Delhi,Karnataka,North,317215
+10731,2024-03-23,2024-01-06,Priya Nair,Books,Face Cream,2,23365,Cash on Delivery,In Transit,Mumbai,Tamil Nadu,West,46730
+10732,2024-05-24,2024-01-05,Anjali Deshmukh,Clothing,Headphones,5,3195,Debit Card,In Transit,Mumbai,Delhi,South,15975
+10733,2024-03-25,2024-01-11,Amit Sharma,Clothing,Novel,4,12652,Cash on Delivery,In Transit,Pune,Maharashtra,East,50608
+10734,2024-03-18,2024-01-08,Neha Patil,Books,Mobile,4,50037,Credit Card,Delivered,Chennai,Delhi,North,200148
+10735,2024-04-19,2024-01-08,Karan Malhotra,Books,Face Cream,5,32316,Debit Card,Cancelled,Hyderabad,Telangana,North,161580
+10736,2024-01-01,2024-01-07,Neha Patil,Beauty,Novel,5,61604,Credit Card,Cancelled,Delhi,Maharashtra,East,308020
+10737,2024-02-20,2024-01-12,Karan Malhotra,Books,Mobile,5,12262,Credit Card,Returned,Bengaluru,Tamil Nadu,East,61310
+10738,2024-06-21,2024-01-08,Amit Sharma,Beauty,Mixer,3,33602,Debit Card,Returned,Pune,Maharashtra,North,100806
+10739,2024-01-04,2024-01-09,Rahul Mehta,Home Appliances,Face Cream,4,4311,UPI,Delivered,Delhi,Tamil Nadu,West,17244
+10740,2024-04-22,2024-01-11,Pooja Singh,Clothing,Mixer,4,20082,Debit Card,Delivered,Chennai,Tamil Nadu,North,80328
+10741,2024-02-01,2024-01-10,Rahul Mehta,Books,Face Cream,3,67991,UPI,In Transit,Delhi,Karnataka,East,203973
+10742,2024-02-03,2024-01-09,Karan Malhotra,Clothing,Mixer,5,40025,Cash on Delivery,Returned,Mumbai,Karnataka,West,200125
+10743,2024-04-01,2024-01-07,Suresh Iyer,Clothing,Novel,2,9496,Cash on Delivery,Cancelled,Mumbai,Delhi,South,18992
+10744,2024-04-04,2024-01-09,Pooja Singh,Clothing,Shirt,5,43759,Debit Card,In Transit,Pune,Delhi,North,218795
+10745,2024-03-12,2024-01-10,Pooja Singh,Home Appliances,Face Cream,5,79163,Cash on Delivery,Cancelled,Chennai,Tamil Nadu,East,395815
+10746,2024-02-08,2024-01-06,Neha Patil,Electronics,Face Cream,3,33069,Net Banking,In Transit,Chennai,Maharashtra,South,99207
+10747,2024-06-02,2024-01-07,Anjali Deshmukh,Books,Mixer,4,25000,Credit Card,Cancelled,Delhi,Telangana,North,100000
+10748,2024-06-10,2024-01-06,Neha Patil,Electronics,Mobile,5,76727,Credit Card,Delivered,Pune,Telangana,North,383635
+10749,2024-04-27,2024-01-05,Neha Patil,Electronics,Face Cream,4,5569,UPI,In Transit,Chennai,Maharashtra,West,22276
+10750,2024-01-03,2024-01-06,Suresh Iyer,Electronics,Mixer,1,44180,Cash on Delivery,Cancelled,Hyderabad,Maharashtra,East,44180
+10751,2024-05-02,2024-01-05,Rahul Mehta,Clothing,Laptop,4,8620,UPI,Cancelled,Hyderabad,Karnataka,South,34480
+10752,2024-02-19,2024-01-05,Rahul Mehta,Beauty,Mixer,2,49889,Credit Card,Returned,Mumbai,Telangana,North,99778
+10753,2024-01-12,2024-01-06,Sneha Kulkarni,Clothing,Novel,2,76576,Credit Card,In Transit,Delhi,Tamil Nadu,West,153152
+10754,2024-02-23,2024-01-07,Karan Malhotra,Clothing,Shirt,5,36197,Cash on Delivery,Cancelled,Bengaluru,Delhi,South,180985
+10755,2024-05-12,2024-01-12,Suresh Iyer,Electronics,Laptop,4,58865,Net Banking,Returned,Mumbai,Karnataka,South,235460
+10756,2024-02-26,2024-01-10,Sneha Kulkarni,Clothing,Novel,5,31230,Net Banking,Cancelled,Pune,Telangana,North,156150
+10757,2024-05-24,2024-01-09,Amit Sharma,Electronics,Novel,3,57533,Cash on Delivery,In Transit,Chennai,Maharashtra,South,172599
+10758,2024-04-21,2024-01-09,Karan Malhotra,Beauty,Novel,2,14680,Cash on Delivery,Delivered,Mumbai,Telangana,North,29360
+10759,2024-02-16,2024-01-10,Karan Malhotra,Books,Mobile,5,77196,UPI,In Transit,Bengaluru,Tamil Nadu,West,385980
+10760,2024-05-30,2024-01-11,Priya Nair,Electronics,Novel,3,71234,Cash on Delivery,In Transit,Bengaluru,Karnataka,West,213702
+10761,2024-03-25,2024-01-11,Priya Nair,Beauty,Mobile,5,56130,Net Banking,Cancelled,Hyderabad,Maharashtra,South,280650
+10762,2024-05-21,2024-01-05,Rohit Verma,Books,Novel,4,5829,Cash on Delivery,Cancelled,Pune,Tamil Nadu,North,23316
+10763,2024-03-06,2024-01-05,Rohit Verma,Home Appliances,Headphones,4,49478,UPI,In Transit,Mumbai,Delhi,East,197912
+10764,2024-03-15,2024-01-07,Neha Patil,Electronics,Laptop,4,7237,UPI,Returned,Delhi,Karnataka,West,28948
+10765,2024-06-27,2024-01-08,Amit Sharma,Electronics,Headphones,4,40186,UPI,Returned,Mumbai,Tamil Nadu,North,160744
+10766,2024-04-12,2024-01-06,Pooja Singh,Home Appliances,Novel,1,49999,UPI,Returned,Hyderabad,Tamil Nadu,North,49999
+10767,2024-06-14,2024-01-05,Pooja Singh,Home Appliances,Laptop,3,76696,Debit Card,Cancelled,Bengaluru,Maharashtra,North,230088
+10768,2024-02-07,2024-01-09,Priya Nair,Electronics,Laptop,3,25579,Cash on Delivery,Cancelled,Pune,Delhi,South,76737
+10769,2024-02-19,2024-01-07,Priya Nair,Home Appliances,Face Cream,4,38406,Credit Card,In Transit,Pune,Tamil Nadu,East,153624
+10770,2024-04-07,2024-01-06,Priya Nair,Clothing,Shirt,1,40844,Cash on Delivery,Delivered,Delhi,Karnataka,South,40844
+10771,2024-03-22,2024-01-07,Suresh Iyer,Books,Headphones,4,9297,Debit Card,Cancelled,Pune,Tamil Nadu,West,37188
+10772,2024-01-30,2024-01-06,Anjali Deshmukh,Books,Shirt,1,41160,UPI,In Transit,Hyderabad,Telangana,South,41160
+10773,2024-03-19,2024-01-06,Rohit Verma,Books,Laptop,4,3525,Debit Card,In Transit,Hyderabad,Karnataka,North,14100
+10774,2024-03-31,2024-01-10,Suresh Iyer,Clothing,Mobile,2,59770,Net Banking,Delivered,Hyderabad,Karnataka,South,119540
+10775,2024-06-27,2024-01-05,Rahul Mehta,Home Appliances,Laptop,2,63956,Net Banking,Returned,Pune,Tamil Nadu,North,127912
+10776,2024-02-21,2024-01-12,Pooja Singh,Beauty,Shirt,5,52180,Cash on Delivery,In Transit,Pune,Maharashtra,East,260900
+10777,2024-06-14,2024-01-07,Karan Malhotra,Home Appliances,Headphones,4,61378,Cash on Delivery,In Transit,Hyderabad,Karnataka,South,245512
+10778,2024-03-19,2024-01-12,Rohit Verma,Electronics,Novel,3,76590,Credit Card,In Transit,Pune,Telangana,South,229770
+10779,2024-01-30,2024-01-07,Sneha Kulkarni,Books,Face Cream,5,56933,Credit Card,Returned,Pune,Maharashtra,South,284665
+10780,2024-04-15,2024-01-10,Rahul Mehta,Home Appliances,Face Cream,2,26955,Net Banking,Returned,Bengaluru,Maharashtra,North,53910
+10781,2024-02-20,2024-01-09,Rohit Verma,Beauty,Face Cream,4,43901,UPI,Delivered,Mumbai,Maharashtra,North,175604
+10782,2024-03-21,2024-01-12,Suresh Iyer,Electronics,Novel,5,3414,Debit Card,Cancelled,Chennai,Karnataka,South,17070
+10783,2024-05-12,2024-01-09,Amit Sharma,Clothing,Face Cream,4,26802,Credit Card,Returned,Pune,Maharashtra,South,107208
+10784,2024-01-29,2024-01-11,Karan Malhotra,Clothing,Headphones,2,50068,Credit Card,Cancelled,Chennai,Tamil Nadu,East,100136
+10785,2024-05-11,2024-01-05,Rohit Verma,Beauty,Novel,5,48428,UPI,Cancelled,Chennai,Maharashtra,East,242140
+10786,2024-05-17,2024-01-05,Anjali Deshmukh,Electronics,Face Cream,2,20328,UPI,Returned,Bengaluru,Telangana,West,40656
+10787,2024-05-24,2024-01-08,Priya Nair,Books,Novel,1,55865,Cash on Delivery,In Transit,Pune,Delhi,East,55865
+10788,2024-03-14,2024-01-10,Priya Nair,Home Appliances,Shirt,2,35633,Debit Card,Delivered,Hyderabad,Telangana,East,71266
+10789,2024-01-17,2024-01-09,Karan Malhotra,Electronics,Headphones,4,3474,UPI,Cancelled,Chennai,Karnataka,East,13896
+10790,2024-03-24,2024-01-06,Suresh Iyer,Clothing,Mixer,3,35698,Credit Card,In Transit,Pune,Maharashtra,North,107094
+10791,2024-03-09,2024-01-07,Priya Nair,Beauty,Mobile,2,36229,Credit Card,Returned,Delhi,Maharashtra,East,72458
+10792,2024-02-03,2024-01-05,Rohit Verma,Beauty,Face Cream,3,4621,Net Banking,Cancelled,Hyderabad,Tamil Nadu,East,13863
+10793,2024-01-06,2024-01-12,Sneha Kulkarni,Home Appliances,Mobile,1,55721,UPI,Cancelled,Delhi,Maharashtra,South,55721
+10794,2024-02-22,2024-01-07,Pooja Singh,Beauty,Novel,5,72935,Cash on Delivery,Cancelled,Delhi,Telangana,North,364675
+10795,2024-05-05,2024-01-07,Pooja Singh,Beauty,Mobile,5,24060,Debit Card,In Transit,Chennai,Karnataka,West,120300
+10796,2024-02-12,2024-01-08,Rahul Mehta,Electronics,Headphones,3,11660,Cash on Delivery,In Transit,Delhi,Delhi,West,34980
+10797,2024-04-24,2024-01-09,Neha Patil,Books,Headphones,5,10613,Credit Card,In Transit,Bengaluru,Maharashtra,East,53065
+10798,2024-04-20,2024-01-05,Amit Sharma,Home Appliances,Laptop,2,6101,Cash on Delivery,Cancelled,Bengaluru,Delhi,West,12202
+10799,2024-05-30,2024-01-07,Karan Malhotra,Electronics,Face Cream,3,14430,Credit Card,Cancelled,Chennai,Maharashtra,West,43290
+10800,2024-03-20,2024-01-05,Rahul Mehta,Books,Laptop,4,14571,Credit Card,Delivered,Pune,Karnataka,West,58284
+10801,2024-04-04,2024-01-06,Neha Patil,Electronics,Mobile,2,16375,Credit Card,Delivered,Mumbai,Telangana,East,32750
+10802,2024-04-27,2024-01-08,Suresh Iyer,Electronics,Mixer,2,19284,Credit Card,In Transit,Pune,Karnataka,West,38568
+10803,2024-05-23,2024-01-06,Anjali Deshmukh,Beauty,Laptop,2,61242,Credit Card,In Transit,Pune,Delhi,East,122484
+10804,2024-01-08,2024-01-05,Anjali Deshmukh,Books,Laptop,4,13161,Net Banking,Returned,Pune,Maharashtra,South,52644
+10805,2024-05-11,2024-01-11,Amit Sharma,Home Appliances,Headphones,1,71676,Cash on Delivery,In Transit,Pune,Delhi,South,71676
+10806,2024-04-13,2024-01-12,Priya Nair,Home Appliances,Mixer,5,61547,Net Banking,Delivered,Hyderabad,Telangana,West,307735
+10807,2024-05-11,2024-01-05,Rohit Verma,Books,Novel,3,69401,Net Banking,Delivered,Mumbai,Karnataka,South,208203
+10808,2024-01-25,2024-01-09,Rahul Mehta,Beauty,Mobile,1,21277,UPI,Delivered,Hyderabad,Delhi,East,21277
+10809,2024-04-05,2024-01-07,Rahul Mehta,Clothing,Laptop,3,50917,UPI,Cancelled,Delhi,Delhi,South,152751
+10810,2024-06-03,2024-01-07,Karan Malhotra,Electronics,Mixer,5,57773,UPI,Cancelled,Pune,Telangana,West,288865
+10811,2024-04-02,2024-01-06,Karan Malhotra,Beauty,Face Cream,4,73202,Debit Card,In Transit,Bengaluru,Maharashtra,East,292808
+10812,2024-06-08,2024-01-12,Anjali Deshmukh,Books,Mixer,2,15930,UPI,Returned,Chennai,Delhi,North,31860
+10813,2024-06-26,2024-01-08,Anjali Deshmukh,Electronics,Mobile,2,20356,Cash on Delivery,Returned,Chennai,Telangana,East,40712
+10814,2024-03-01,2024-01-11,Sneha Kulkarni,Home Appliances,Mixer,4,7682,Net Banking,Returned,Hyderabad,Maharashtra,South,30728
+10815,2024-05-01,2024-01-10,Sneha Kulkarni,Clothing,Mixer,1,56039,Cash on Delivery,Cancelled,Hyderabad,Maharashtra,North,56039
+10816,2024-02-20,2024-01-12,Priya Nair,Home Appliances,Mixer,1,48939,UPI,Delivered,Bengaluru,Karnataka,East,48939
+10817,2024-05-26,2024-01-07,Sneha Kulkarni,Books,Face Cream,3,60138,Debit Card,Delivered,Pune,Telangana,North,180414
+10818,2024-01-21,2024-01-09,Rohit Verma,Electronics,Laptop,4,46341,Debit Card,Cancelled,Mumbai,Maharashtra,North,185364
+10819,2024-01-05,2024-01-12,Rohit Verma,Books,Mobile,1,1292,Net Banking,Returned,Delhi,Karnataka,North,1292
+10820,2024-04-01,2024-01-06,Rahul Mehta,Electronics,Face Cream,4,72694,Cash on Delivery,Returned,Chennai,Tamil Nadu,East,290776
+10821,2024-06-18,2024-01-06,Pooja Singh,Beauty,Mixer,5,67957,Credit Card,In Transit,Delhi,Telangana,South,339785
+10822,2024-03-01,2024-01-10,Rohit Verma,Clothing,Mixer,2,27460,Cash on Delivery,In Transit,Mumbai,Tamil Nadu,East,54920
+10823,2024-01-22,2024-01-09,Neha Patil,Beauty,Laptop,2,45456,UPI,Returned,Hyderabad,Maharashtra,South,90912
+10824,2024-05-28,2024-01-08,Anjali Deshmukh,Beauty,Mobile,2,51675,Credit Card,Cancelled,Chennai,Telangana,East,103350
+10825,2024-03-10,2024-01-12,Karan Malhotra,Books,Headphones,4,19872,Debit Card,Returned,Delhi,Karnataka,East,79488
+10826,2024-01-01,2024-01-09,Sneha Kulkarni,Clothing,Face Cream,4,4436,Net Banking,In Transit,Hyderabad,Maharashtra,East,17744
+10827,2024-05-12,2024-01-08,Rahul Mehta,Electronics,Laptop,3,62168,Net Banking,Returned,Mumbai,Telangana,South,186504
+10828,2024-01-12,2024-01-09,Amit Sharma,Electronics,Mobile,2,32467,Debit Card,Cancelled,Delhi,Telangana,East,64934
+10829,2024-03-30,2024-01-09,Karan Malhotra,Home Appliances,Face Cream,3,15779,UPI,Delivered,Pune,Tamil Nadu,North,47337
+10830,2024-02-15,2024-01-05,Neha Patil,Electronics,Mixer,2,31676,Debit Card,Cancelled,Hyderabad,Maharashtra,East,63352
+10831,2024-02-03,2024-01-06,Sneha Kulkarni,Books,Mobile,3,5123,UPI,Cancelled,Mumbai,Karnataka,North,15369
+10832,2024-06-25,2024-01-12,Neha Patil,Beauty,Mobile,3,70756,Credit Card,In Transit,Delhi,Karnataka,West,212268
+10833,2024-03-18,2024-01-09,Anjali Deshmukh,Beauty,Novel,5,19885,Debit Card,Cancelled,Pune,Maharashtra,West,99425
+10834,2024-02-14,2024-01-12,Anjali Deshmukh,Beauty,Mobile,3,17572,UPI,Cancelled,Pune,Maharashtra,South,52716
+10835,2024-06-03,2024-01-10,Priya Nair,Clothing,Headphones,4,26919,Credit Card,In Transit,Mumbai,Delhi,South,107676
+10836,2024-03-13,2024-01-09,Rahul Mehta,Electronics,Mobile,3,75369,Debit Card,In Transit,Bengaluru,Tamil Nadu,West,226107
+10837,2024-01-26,2024-01-07,Karan Malhotra,Books,Headphones,2,40195,Net Banking,Delivered,Chennai,Maharashtra,East,80390
+10838,2024-02-16,2024-01-06,Suresh Iyer,Clothing,Mixer,3,4020,Debit Card,Returned,Mumbai,Maharashtra,East,12060
+10839,2024-04-30,2024-01-07,Suresh Iyer,Home Appliances,Headphones,1,19567,Cash on Delivery,Cancelled,Pune,Delhi,East,19567
+10840,2024-02-25,2024-01-12,Karan Malhotra,Books,Face Cream,2,15996,Debit Card,In Transit,Pune,Delhi,West,31992
+10841,2024-04-03,2024-01-12,Amit Sharma,Books,Mixer,1,30268,Cash on Delivery,Delivered,Mumbai,Telangana,North,30268
+10842,2024-04-16,2024-01-06,Rahul Mehta,Books,Mixer,2,53664,Credit Card,Returned,Bengaluru,Karnataka,South,107328
+10843,2024-03-03,2024-01-12,Neha Patil,Beauty,Headphones,4,23645,Debit Card,In Transit,Chennai,Tamil Nadu,North,94580
+10844,2024-02-17,2024-01-07,Amit Sharma,Books,Laptop,4,51867,Credit Card,Returned,Delhi,Telangana,West,207468
+10845,2024-03-01,2024-01-09,Pooja Singh,Electronics,Shirt,4,61907,Credit Card,Returned,Mumbai,Maharashtra,North,247628
+10846,2024-03-21,2024-01-09,Karan Malhotra,Books,Mobile,1,19685,UPI,Cancelled,Chennai,Delhi,East,19685
+10847,2024-01-26,2024-01-05,Neha Patil,Beauty,Novel,5,67200,Credit Card,Cancelled,Chennai,Karnataka,East,336000
+10848,2024-02-05,2024-01-10,Suresh Iyer,Books,Shirt,2,68544,Credit Card,In Transit,Hyderabad,Telangana,North,137088
+10849,2024-01-01,2024-01-12,Rohit Verma,Home Appliances,Mobile,4,65725,Debit Card,Returned,Pune,Karnataka,West,262900
+10850,2024-01-08,2024-01-07,Priya Nair,Home Appliances,Mobile,2,78818,Debit Card,In Transit,Delhi,Delhi,North,157636
+10851,2024-04-22,2024-01-12,Suresh Iyer,Beauty,Mixer,1,33219,Net Banking,In Transit,Mumbai,Telangana,East,33219
+10852,2024-04-08,2024-01-12,Rahul Mehta,Electronics,Mobile,5,57496,UPI,Returned,Pune,Telangana,East,287480
+10853,2024-06-28,2024-01-08,Anjali Deshmukh,Electronics,Novel,1,79701,Credit Card,In Transit,Hyderabad,Karnataka,West,79701
+10854,2024-02-16,2024-01-05,Rohit Verma,Clothing,Mobile,2,795,UPI,Returned,Hyderabad,Delhi,North,1590
+10855,2024-05-06,2024-01-07,Priya Nair,Beauty,Headphones,5,45055,Cash on Delivery,Returned,Pune,Maharashtra,East,225275
+10856,2024-02-25,2024-01-07,Priya Nair,Books,Shirt,5,67984,Credit Card,Returned,Bengaluru,Telangana,East,339920
+10857,2024-01-14,2024-01-12,Pooja Singh,Beauty,Headphones,1,33624,UPI,Returned,Chennai,Maharashtra,North,33624
+10858,2024-01-28,2024-01-05,Pooja Singh,Clothing,Novel,4,79229,Net Banking,Delivered,Mumbai,Delhi,North,316916
+10859,2024-03-18,2024-01-09,Sneha Kulkarni,Beauty,Mobile,2,1852,Net Banking,Returned,Mumbai,Telangana,South,3704
+10860,2024-05-09,2024-01-07,Suresh Iyer,Beauty,Face Cream,3,51572,Credit Card,Cancelled,Mumbai,Telangana,West,154716
+10861,2024-04-18,2024-01-09,Suresh Iyer,Clothing,Novel,3,36153,Cash on Delivery,Cancelled,Pune,Maharashtra,West,108459
+10862,2024-06-02,2024-01-05,Suresh Iyer,Electronics,Mixer,1,33224,Net Banking,Cancelled,Bengaluru,Tamil Nadu,North,33224
+10863,2024-01-14,2024-01-09,Sneha Kulkarni,Books,Headphones,2,74762,Net Banking,Returned,Delhi,Maharashtra,West,149524
+10864,2024-02-25,2024-01-06,Amit Sharma,Clothing,Headphones,2,24189,Cash on Delivery,Cancelled,Hyderabad,Maharashtra,East,48378
+10865,2024-04-24,2024-01-08,Priya Nair,Home Appliances,Laptop,1,54975,UPI,Delivered,Pune,Tamil Nadu,North,54975
+10866,2024-01-07,2024-01-11,Rohit Verma,Electronics,Mobile,2,73891,Net Banking,In Transit,Delhi,Delhi,North,147782
+10867,2024-01-03,2024-01-07,Rahul Mehta,Home Appliances,Mixer,4,70490,Debit Card,Returned,Hyderabad,Delhi,North,281960
+10868,2024-04-20,2024-01-10,Priya Nair,Electronics,Face Cream,1,22934,Net Banking,Cancelled,Hyderabad,Telangana,South,22934
+10869,2024-05-30,2024-01-08,Pooja Singh,Books,Headphones,4,32663,UPI,Delivered,Bengaluru,Karnataka,West,130652
+10870,2024-04-16,2024-01-11,Neha Patil,Books,Headphones,2,64052,UPI,In Transit,Chennai,Karnataka,South,128104
+10871,2024-01-18,2024-01-09,Anjali Deshmukh,Beauty,Mixer,1,77304,Credit Card,Delivered,Mumbai,Telangana,East,77304
+10872,2024-02-07,2024-01-07,Sneha Kulkarni,Home Appliances,Novel,2,56698,Debit Card,Cancelled,Delhi,Karnataka,West,113396
+10873,2024-04-24,2024-01-09,Karan Malhotra,Electronics,Novel,1,41018,UPI,Delivered,Pune,Maharashtra,South,41018
+10874,2024-01-15,2024-01-06,Neha Patil,Books,Mobile,2,27170,Cash on Delivery,In Transit,Delhi,Maharashtra,North,54340
+10875,2024-04-28,2024-01-05,Rahul Mehta,Clothing,Laptop,4,37694,Debit Card,Cancelled,Chennai,Tamil Nadu,South,150776
+10876,2024-01-28,2024-01-07,Suresh Iyer,Books,Headphones,4,52357,Debit Card,In Transit,Mumbai,Tamil Nadu,North,209428
+10877,2024-02-08,2024-01-11,Pooja Singh,Clothing,Laptop,2,13316,Cash on Delivery,Delivered,Delhi,Telangana,South,26632
+10878,2024-01-17,2024-01-11,Pooja Singh,Electronics,Novel,1,42437,Net Banking,Returned,Chennai,Telangana,South,42437
+10879,2024-03-26,2024-01-06,Pooja Singh,Books,Novel,3,453,Cash on Delivery,Returned,Pune,Telangana,South,1359
+10880,2024-05-05,2024-01-06,Suresh Iyer,Books,Shirt,4,8153,Cash on Delivery,Returned,Bengaluru,Maharashtra,North,32612
+10881,2024-02-13,2024-01-12,Karan Malhotra,Electronics,Face Cream,4,12679,Net Banking,Returned,Hyderabad,Karnataka,South,50716
+10882,2024-01-25,2024-01-07,Sneha Kulkarni,Books,Mobile,3,16092,Net Banking,In Transit,Pune,Telangana,West,48276
+10883,2024-05-24,2024-01-09,Neha Patil,Clothing,Shirt,2,38667,Net Banking,Returned,Mumbai,Telangana,West,77334
+10884,2024-01-13,2024-01-10,Suresh Iyer,Books,Face Cream,1,18400,Net Banking,In Transit,Hyderabad,Maharashtra,West,18400
+10885,2024-01-25,2024-01-11,Rahul Mehta,Home Appliances,Shirt,2,63756,Net Banking,Cancelled,Pune,Maharashtra,North,127512
+10886,2024-03-08,2024-01-11,Sneha Kulkarni,Beauty,Shirt,5,11349,Cash on Delivery,Returned,Pune,Maharashtra,North,56745
+10887,2024-05-17,2024-01-06,Rahul Mehta,Clothing,Mobile,4,1086,Credit Card,In Transit,Pune,Karnataka,West,4344
+10888,2024-03-07,2024-01-08,Sneha Kulkarni,Home Appliances,Mobile,5,70204,Credit Card,Returned,Pune,Telangana,West,351020
+10889,2024-04-18,2024-01-06,Karan Malhotra,Electronics,Mixer,4,30999,UPI,Returned,Hyderabad,Delhi,West,123996
+10890,2024-05-25,2024-01-10,Anjali Deshmukh,Clothing,Laptop,4,47991,Credit Card,Returned,Mumbai,Delhi,East,191964
+10891,2024-04-20,2024-01-09,Rahul Mehta,Beauty,Laptop,5,37340,Credit Card,In Transit,Chennai,Telangana,West,186700
+10892,2024-04-20,2024-01-09,Suresh Iyer,Beauty,Mixer,5,58286,Cash on Delivery,Delivered,Delhi,Telangana,South,291430
+10893,2024-02-03,2024-01-08,Sneha Kulkarni,Electronics,Mixer,2,39062,Net Banking,Returned,Bengaluru,Telangana,East,78124
+10894,2024-04-20,2024-01-11,Pooja Singh,Electronics,Novel,5,23900,Net Banking,Returned,Delhi,Telangana,East,119500
+10895,2024-01-08,2024-01-06,Priya Nair,Clothing,Face Cream,2,20110,Cash on Delivery,Cancelled,Delhi,Karnataka,North,40220
+10896,2024-06-16,2024-01-12,Pooja Singh,Books,Shirt,2,57504,Credit Card,Delivered,Bengaluru,Delhi,South,115008
+10897,2024-04-22,2024-01-09,Amit Sharma,Electronics,Mixer,2,20385,Cash on Delivery,In Transit,Hyderabad,Tamil Nadu,North,40770
+10898,2024-03-23,2024-01-10,Anjali Deshmukh,Books,Headphones,4,47154,UPI,Cancelled,Mumbai,Delhi,North,188616
+10899,2024-02-11,2024-01-07,Anjali Deshmukh,Home Appliances,Laptop,4,75097,Net Banking,Returned,Bengaluru,Delhi,South,300388
+10900,2024-06-17,2024-01-05,Pooja Singh,Beauty,Mixer,5,40079,Debit Card,Cancelled,Mumbai,Maharashtra,North,200395
+10901,2024-04-10,2024-01-05,Neha Patil,Books,Headphones,4,56507,UPI,Cancelled,Hyderabad,Telangana,South,226028
+10902,2024-01-06,2024-01-05,Karan Malhotra,Beauty,Headphones,5,34280,UPI,Returned,Delhi,Telangana,South,171400
+10903,2024-06-28,2024-01-12,Rahul Mehta,Books,Headphones,4,56417,Cash on Delivery,Delivered,Mumbai,Telangana,North,225668
+10904,2024-01-26,2024-01-11,Suresh Iyer,Home Appliances,Novel,1,14441,Credit Card,Delivered,Hyderabad,Maharashtra,West,14441
+10905,2024-03-04,2024-01-06,Anjali Deshmukh,Electronics,Novel,1,9644,Net Banking,Cancelled,Hyderabad,Karnataka,North,9644
+10906,2024-02-28,2024-01-08,Pooja Singh,Home Appliances,Headphones,5,16196,Debit Card,Returned,Chennai,Karnataka,East,80980
+10907,2024-04-18,2024-01-12,Pooja Singh,Electronics,Face Cream,4,30113,UPI,In Transit,Bengaluru,Tamil Nadu,North,120452
+10908,2024-04-30,2024-01-12,Karan Malhotra,Electronics,Novel,4,65979,Debit Card,Cancelled,Chennai,Karnataka,South,263916
+10909,2024-02-02,2024-01-09,Karan Malhotra,Beauty,Shirt,2,10981,Credit Card,In Transit,Delhi,Karnataka,East,21962
+10910,2024-05-29,2024-01-07,Rohit Verma,Home Appliances,Headphones,3,73203,Credit Card,Cancelled,Bengaluru,Telangana,South,219609
+10911,2024-01-21,2024-01-12,Rohit Verma,Books,Shirt,5,3528,Debit Card,Cancelled,Delhi,Delhi,West,17640
+10912,2024-03-10,2024-01-10,Neha Patil,Home Appliances,Shirt,3,4882,Net Banking,Returned,Chennai,Karnataka,West,14646
+10913,2024-04-21,2024-01-07,Neha Patil,Beauty,Headphones,3,78983,Credit Card,Returned,Hyderabad,Karnataka,East,236949
+10914,2024-01-04,2024-01-10,Amit Sharma,Electronics,Laptop,5,11697,Debit Card,In Transit,Delhi,Maharashtra,West,58485
+10915,2024-04-03,2024-01-11,Neha Patil,Beauty,Face Cream,4,39099,UPI,In Transit,Bengaluru,Tamil Nadu,West,156396
+10916,2024-03-15,2024-01-06,Sneha Kulkarni,Clothing,Headphones,5,37311,Debit Card,Delivered,Bengaluru,Maharashtra,North,186555
+10917,2024-03-02,2024-01-05,Karan Malhotra,Clothing,Headphones,3,79483,Debit Card,Returned,Delhi,Telangana,North,238449
+10918,2024-04-03,2024-01-12,Suresh Iyer,Books,Novel,4,44564,Cash on Delivery,Cancelled,Bengaluru,Delhi,West,178256
+10919,2024-04-04,2024-01-06,Sneha Kulkarni,Beauty,Headphones,1,42617,Credit Card,Cancelled,Hyderabad,Tamil Nadu,West,42617
+10920,2024-05-31,2024-01-11,Rahul Mehta,Books,Laptop,5,48214,Net Banking,Delivered,Hyderabad,Maharashtra,North,241070
+10921,2024-02-24,2024-01-08,Pooja Singh,Books,Novel,5,45554,Net Banking,Returned,Bengaluru,Karnataka,West,227770
+10922,2024-05-16,2024-01-08,Neha Patil,Clothing,Mobile,4,40396,Cash on Delivery,Cancelled,Delhi,Karnataka,West,161584
+10923,2024-05-10,2024-01-11,Pooja Singh,Books,Mobile,1,54085,Net Banking,Delivered,Chennai,Tamil Nadu,South,54085
+10924,2024-01-31,2024-01-10,Anjali Deshmukh,Clothing,Shirt,1,52644,Debit Card,Delivered,Bengaluru,Karnataka,West,52644
+10925,2024-02-09,2024-01-09,Amit Sharma,Electronics,Face Cream,4,68846,Cash on Delivery,Cancelled,Bengaluru,Maharashtra,East,275384
+10926,2024-02-05,2024-01-09,Anjali Deshmukh,Beauty,Shirt,2,71391,UPI,Cancelled,Bengaluru,Maharashtra,South,142782
+10927,2024-05-31,2024-01-10,Amit Sharma,Books,Laptop,5,65903,Credit Card,In Transit,Bengaluru,Karnataka,East,329515
+10928,2024-01-06,2024-01-08,Rohit Verma,Clothing,Mixer,5,28712,Credit Card,Returned,Delhi,Karnataka,West,143560
+10929,2024-03-06,2024-01-08,Pooja Singh,Home Appliances,Face Cream,3,51958,Credit Card,In Transit,Chennai,Telangana,North,155874
+10930,2024-03-15,2024-01-12,Amit Sharma,Books,Mobile,4,49849,Debit Card,Delivered,Chennai,Delhi,South,199396
+10931,2024-01-04,2024-01-08,Priya Nair,Electronics,Shirt,3,11849,UPI,Cancelled,Mumbai,Tamil Nadu,North,35547
+10932,2024-03-19,2024-01-06,Sneha Kulkarni,Electronics,Mobile,3,71516,Cash on Delivery,In Transit,Bengaluru,Maharashtra,South,214548
+10933,2024-05-13,2024-01-08,Amit Sharma,Home Appliances,Laptop,1,26039,Cash on Delivery,Delivered,Bengaluru,Tamil Nadu,North,26039
+10934,2024-04-27,2024-01-07,Amit Sharma,Clothing,Laptop,5,21509,Credit Card,Returned,Mumbai,Telangana,South,107545
+10935,2024-04-22,2024-01-12,Sneha Kulkarni,Books,Mixer,3,15416,UPI,Cancelled,Chennai,Maharashtra,South,46248
+10936,2024-04-03,2024-01-05,Pooja Singh,Clothing,Mixer,1,20345,UPI,In Transit,Pune,Telangana,East,20345
+10937,2024-06-27,2024-01-08,Pooja Singh,Electronics,Novel,4,26627,UPI,Returned,Hyderabad,Telangana,North,106508
+10938,2024-03-02,2024-01-10,Sneha Kulkarni,Clothing,Face Cream,3,36009,Net Banking,In Transit,Pune,Karnataka,East,108027
+10939,2024-03-19,2024-01-05,Anjali Deshmukh,Electronics,Laptop,5,43917,Net Banking,Delivered,Chennai,Tamil Nadu,East,219585
+10940,2024-05-15,2024-01-06,Priya Nair,Clothing,Shirt,3,60439,Credit Card,Returned,Bengaluru,Tamil Nadu,North,181317
+10941,2024-01-26,2024-01-10,Suresh Iyer,Home Appliances,Mobile,4,27205,UPI,In Transit,Pune,Karnataka,South,108820
+10942,2024-06-27,2024-01-05,Rahul Mehta,Beauty,Headphones,3,64448,UPI,Returned,Delhi,Tamil Nadu,East,193344
+10943,2024-06-21,2024-01-10,Priya Nair,Home Appliances,Mixer,5,72903,Cash on Delivery,Delivered,Delhi,Karnataka,North,364515
+10944,2024-02-13,2024-01-06,Pooja Singh,Home Appliances,Headphones,1,43219,Cash on Delivery,Returned,Mumbai,Maharashtra,South,43219
+10945,2024-05-12,2024-01-12,Suresh Iyer,Beauty,Shirt,5,58746,Credit Card,In Transit,Chennai,Telangana,East,293730
+10946,2024-03-10,2024-01-07,Rohit Verma,Beauty,Mixer,1,52728,UPI,Delivered,Chennai,Telangana,East,52728
+10947,2024-06-02,2024-01-06,Neha Patil,Books,Headphones,2,48194,Credit Card,Cancelled,Pune,Tamil Nadu,East,96388
+10948,2024-04-27,2024-01-06,Amit Sharma,Books,Face Cream,5,6747,Cash on Delivery,In Transit,Bengaluru,Delhi,South,33735
+10949,2024-03-08,2024-01-10,Sneha Kulkarni,Home Appliances,Shirt,5,5799,Cash on Delivery,In Transit,Chennai,Telangana,East,28995
+10950,2024-01-19,2024-01-12,Sneha Kulkarni,Home Appliances,Mobile,4,39341,Net Banking,Delivered,Pune,Karnataka,South,157364
+10951,2024-01-20,2024-01-11,Amit Sharma,Electronics,Face Cream,3,31615,Credit Card,Delivered,Pune,Delhi,West,94845
+10952,2024-04-22,2024-01-09,Neha Patil,Electronics,Shirt,1,1599,Credit Card,Cancelled,Hyderabad,Delhi,East,1599
+10953,2024-05-19,2024-01-08,Rahul Mehta,Books,Novel,1,5294,UPI,In Transit,Hyderabad,Telangana,West,5294
+10954,2024-02-16,2024-01-08,Neha Patil,Books,Mixer,4,7789,UPI,Delivered,Chennai,Telangana,North,31156
+10955,2024-01-01,2024-01-07,Suresh Iyer,Electronics,Laptop,4,32655,Net Banking,Cancelled,Pune,Telangana,East,130620
+10956,2024-03-30,2024-01-07,Neha Patil,Electronics,Mobile,3,74105,Debit Card,Cancelled,Mumbai,Karnataka,North,222315
+10957,2024-05-21,2024-01-08,Suresh Iyer,Clothing,Face Cream,3,68667,Debit Card,Delivered,Mumbai,Delhi,North,206001
+10958,2024-03-04,2024-01-09,Neha Patil,Clothing,Face Cream,5,77655,Debit Card,In Transit,Hyderabad,Tamil Nadu,North,388275
+10959,2024-02-07,2024-01-08,Rahul Mehta,Electronics,Headphones,2,2296,Credit Card,Returned,Chennai,Karnataka,West,4592
+10960,2024-02-06,2024-01-11,Rahul Mehta,Clothing,Mixer,3,44687,Credit Card,Returned,Bengaluru,Maharashtra,South,134061
+10961,2024-05-05,2024-01-09,Pooja Singh,Beauty,Laptop,4,3389,Cash on Delivery,Cancelled,Mumbai,Telangana,West,13556
+10962,2024-05-18,2024-01-07,Amit Sharma,Books,Shirt,3,20959,Credit Card,Returned,Mumbai,Delhi,West,62877
+10963,2024-04-09,2024-01-05,Rahul Mehta,Books,Laptop,1,45478,Credit Card,Returned,Hyderabad,Karnataka,North,45478
+10964,2024-03-17,2024-01-10,Suresh Iyer,Electronics,Mixer,2,71026,Credit Card,Delivered,Hyderabad,Maharashtra,East,142052
+10965,2024-01-03,2024-01-11,Rahul Mehta,Home Appliances,Mixer,5,70411,Net Banking,Cancelled,Chennai,Karnataka,South,352055
+10966,2024-06-09,2024-01-11,Pooja Singh,Electronics,Novel,1,34865,Credit Card,In Transit,Hyderabad,Karnataka,North,34865
+10967,2024-05-13,2024-01-12,Sneha Kulkarni,Clothing,Novel,1,23184,UPI,Cancelled,Delhi,Tamil Nadu,South,23184
+10968,2024-06-26,2024-01-07,Suresh Iyer,Home Appliances,Laptop,2,17499,UPI,Delivered,Pune,Tamil Nadu,West,34998
+10969,2024-01-10,2024-01-07,Pooja Singh,Clothing,Shirt,5,60338,Cash on Delivery,Returned,Mumbai,Karnataka,South,301690
+10970,2024-01-05,2024-01-06,Anjali Deshmukh,Beauty,Laptop,4,58086,Net Banking,In Transit,Delhi,Maharashtra,South,232344
+10971,2024-05-30,2024-01-11,Anjali Deshmukh,Clothing,Mixer,5,49594,UPI,Cancelled,Bengaluru,Delhi,East,247970
+10972,2024-05-17,2024-01-06,Rohit Verma,Beauty,Mixer,3,78315,Net Banking,Returned,Delhi,Delhi,North,234945
+10973,2024-06-20,2024-01-06,Neha Patil,Beauty,Headphones,1,34478,Net Banking,Cancelled,Chennai,Telangana,South,34478
+10974,2024-05-09,2024-01-10,Amit Sharma,Clothing,Novel,3,12965,Cash on Delivery,In Transit,Bengaluru,Telangana,South,38895
+10975,2024-01-13,2024-01-06,Karan Malhotra,Clothing,Headphones,4,834,Net Banking,Cancelled,Bengaluru,Delhi,West,3336
+10976,2024-06-16,2024-01-09,Priya Nair,Beauty,Mobile,3,36432,Credit Card,Cancelled,Hyderabad,Karnataka,West,109296
+10977,2024-05-09,2024-01-08,Pooja Singh,Home Appliances,Mixer,5,36410,Net Banking,Cancelled,Delhi,Karnataka,South,182050
+10978,2024-03-24,2024-01-05,Sneha Kulkarni,Beauty,Headphones,3,59054,Cash on Delivery,Returned,Chennai,Tamil Nadu,North,177162
+10979,2024-03-05,2024-01-07,Priya Nair,Books,Laptop,4,63880,Cash on Delivery,In Transit,Mumbai,Tamil Nadu,South,255520
+10980,2024-03-03,2024-01-09,Sneha Kulkarni,Beauty,Novel,4,22769,Cash on Delivery,In Transit,Hyderabad,Telangana,South,91076
+10981,2024-04-10,2024-01-05,Priya Nair,Home Appliances,Novel,4,64316,UPI,Returned,Delhi,Delhi,East,257264
+10982,2024-03-13,2024-01-11,Pooja Singh,Books,Shirt,5,46533,Credit Card,Returned,Mumbai,Karnataka,North,232665
+10983,2024-01-17,2024-01-11,Karan Malhotra,Electronics,Laptop,4,67008,UPI,Returned,Delhi,Delhi,East,268032
+10984,2024-01-09,2024-01-11,Priya Nair,Electronics,Shirt,1,58532,Debit Card,Delivered,Hyderabad,Maharashtra,North,58532
+10985,2024-05-22,2024-01-09,Pooja Singh,Home Appliances,Headphones,4,34709,Credit Card,Cancelled,Mumbai,Delhi,North,138836
+10986,2024-05-31,2024-01-09,Rahul Mehta,Beauty,Face Cream,3,19624,Net Banking,Cancelled,Hyderabad,Maharashtra,North,58872
+10987,2024-02-07,2024-01-07,Karan Malhotra,Clothing,Mobile,3,9038,Cash on Delivery,In Transit,Delhi,Tamil Nadu,East,27114
+10988,2024-06-11,2024-01-08,Suresh Iyer,Home Appliances,Laptop,3,24354,Debit Card,Cancelled,Bengaluru,Tamil Nadu,East,73062
+10989,2024-04-03,2024-01-12,Sneha Kulkarni,Books,Laptop,5,30009,Credit Card,Delivered,Pune,Telangana,East,150045
+10990,2024-04-04,2024-01-06,Anjali Deshmukh,Books,Laptop,3,663,UPI,Returned,Bengaluru,Delhi,West,1989
+10991,2024-02-18,2024-01-11,Neha Patil,Electronics,Shirt,5,10658,Cash on Delivery,In Transit,Hyderabad,Delhi,East,53290
+10992,2024-03-09,2024-01-10,Anjali Deshmukh,Books,Headphones,5,3540,UPI,In Transit,Hyderabad,Maharashtra,West,17700
+10993,2024-03-02,2024-01-08,Karan Malhotra,Home Appliances,Laptop,4,72501,Credit Card,Cancelled,Hyderabad,Tamil Nadu,West,290004
+10994,2024-06-26,2024-01-10,Suresh Iyer,Books,Face Cream,1,45989,Credit Card,In Transit,Mumbai,Maharashtra,West,45989
+10995,2024-03-18,2024-01-07,Sneha Kulkarni,Home Appliances,Laptop,4,2236,Debit Card,Returned,Chennai,Tamil Nadu,South,8944
+10996,2024-04-26,2024-01-07,Suresh Iyer,Clothing,Novel,4,44265,Net Banking,In Transit,Hyderabad,Maharashtra,South,177060
+10997,2024-04-29,2024-01-07,Priya Nair,Electronics,Mobile,5,77834,UPI,Returned,Bengaluru,Tamil Nadu,South,389170
+10998,2024-05-16,2024-01-05,Sneha Kulkarni,Books,Novel,5,1182,Debit Card,Delivered,Pune,Maharashtra,West,5910
+10999,2024-06-10,2024-01-10,Priya Nair,Home Appliances,Novel,3,20524,Cash on Delivery,Delivered,Hyderabad,Tamil Nadu,West,61572
+11000,2024-03-16,2024-01-08,Pooja Singh,Beauty,Mobile,3,31125,Net Banking,Returned,Hyderabad,Maharashtra,North,93375
